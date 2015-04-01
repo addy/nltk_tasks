@@ -14,7 +14,7 @@ def stemWords(words):
 
 	return stemmedWords
 
-# Lemmatize our stemmed words.
+# Lemmatize our words.
 def lemmatizeWords(words):
 	lemmatizedWords = []
 	lemmatizer = WordNetLemmatizer()
