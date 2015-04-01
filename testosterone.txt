@@ -1,0 +1,686 @@
+{{Use mdy dates|date=February 2015}}
+{{Drugbox| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 420412587
+| IUPAC_name = (8''R'',9''S'',10''R'',13''S'',14''S'',17''S'')- 17-hydroxy-10,13-dimethyl- 1,2,6,7,8,9,11,12,14,15,16,17- dodecahydrocyclopenta[''a'']phenanthren-3-one
+| image = Testosteron.svg
+| image2 = Testosterone-from-xtal-3D-balls.png
+
+<!--Clinical data-->
+| tradename = Androderm, Delatestryl
+| Drugs.com = {{drugs.com|monograph|testosterone}}
+| pregnancy_US = X
+| pregnancy_category =  [[Contraindication|Contraindicated]] due to [[teratogen]]ic effects
+| legal_US = Schedule III
+| legal_CA = Schedule IV 
+| licence_US = Testosterone
+| legal_status = Rx-only
+| routes_of_administration = Intramuscular injection, transdermal (cream, gel, or patch), sub-'Q' pellet
+<!--Pharmacokinetic data-->
+| bioavailability = Low (due to extensive [[first pass effect|first pass metabolism]])
+| metabolism = [[Liver]], [[testis]] and [[prostate]]
+| elimination_half-life = 2–4&nbsp;hours
+| excretion = [[Urine]] (90%), feces (6%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 58-22-0
+| CAS_supplemental = <br/>{{CAS|57-85-2}} (propionate ester) <!-- Also CAS verified -->
+| ATC_prefix = G03
+| ATC_suffix = BA03
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17347
+| PubChem = 6013
+| IUPHAR_ligand = 2858
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00624
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5791
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3XMK78S47O
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00075
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 386630
+
+<!--Chemical data-->
+| C=19 | H=28 | O=2
+| molecular_weight = 288.42
+| smiles = O=C4\C=C2/[C@]([C@H]1CC[C@@]3([C@@H](O)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h11,14-17,21H,3-10H2,1-2H3/t14-,15-,16-,17-,18-,19-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MUMGGOZAMZWBJJ-DYKIIFRCSA-N
+| melting_point = 155
+| specific_rotation = +110.2°
+| sec_combustion = −11080 kJ/mol
+}}
+
+'''Testosterone''' is a [[steroid hormone]] from the [[androgen]] group and is found in humans and other [[vertebrates]]. In humans and other [[mammal]]s, testosterone is secreted primarily by the [[testicles]] of [[male]]s and, to a lesser extent, the [[ovaries]] 
+of [[female]]s. Small amounts are also secreted by the [[adrenal gland]]s. It is the principal male sex [[hormone]] and an [[anabolic steroid]].
+
+In men, testosterone plays a key role in the development of male reproductive tissues such as the [[testis]] and [[prostate]] as well as promoting secondary sexual characteristics such as increased [[muscle]], [[bone]] mass, and the growth of [[androgenic hair|body 
+hair]].<ref name="Mooradian_ 1987">{{cite journal | author = Mooradian AD, Morley JE, Korenman SG | title = Biological actions of androgens | journal = Endocr. Rev. | volume = 8 | issue = 1 | pages = 1–28 | date = February 1987 | pmid = 3549275 | doi = 
+10.1210/edrv-8-1-1 | url =  }}</ref> In addition, testosterone is essential for health and well-being<ref name="pmid19707253">{{cite journal | author = Bassil N, Alkaade S, Morley JE | title = The benefits and risks of testosterone replacement therapy: a review | 
+journal = Ther Clin Risk Manag | volume = 5 | issue = 3 | pages = 427–48 | date = June 2009 | pmid = 19707253 | pmc = 2701485 | doi =  | url =  }}</ref> as well as the prevention of [[osteoporosis]].<ref name="pmid19011293">{{cite journal | author = Tuck SP, Francis 
+RM | title = Testosterone, bone and osteoporosis | journal = Front Horm Res | volume = 37 | issue =  | pages = 123–32 | year = 2009 | pmid = 19011293 | doi = 10.1159/000176049 | isbn = 978-3-8055-8622-1 | series = Frontiers of Hormone Research }}</ref>
+
+On average, in adult males, levels of testosterone are about 7–8 times as great as in adult females,<ref name="pmid14981046">{{cite journal | author = Torjesen PA, Sandnes L | title = Serum testosterone in women as measured by an automated immunoassay and a RIA | 
+journal = Clin. Chem. | volume = 50 | issue = 3 | pages = 678; author reply 678–9 | date = March 2004 | pmid = 14981046 | doi = 10.1373/clinchem.2003.027565 }}</ref> but, as the metabolic consumption of testosterone in males is greater, the daily production is about 
+20 times greater in men.<ref name="pmid6025472">{{cite journal | author = Southren AL, Gordon GG, Tochimoto S, Pinzon G, Lane DR, Stypulkowski W | title = Mean plasma concentration, metabolic clearance and basal plasma production rates of testosterone in normal 
+young men and women using a constant infusion procedure: effect of time of day and plasma concentration on the metabolic clearance rate of testosterone | journal = J. Clin. Endocrinol. Metab. | volume = 27 | issue = 5 | pages = 686–94 | date = May 1967 | pmid = 
+6025472 | doi = 10.1210/jcem-27-5-686 }}</ref><ref name="pmid5843701">{{cite journal | author = Southren AL, Tochimoto S, Carmody NC, Isurugi K | title = Plasma production rates of testosterone in normal adult men and women and in patients with the syndrome of 
+feminizing testes | journal = J. Clin. Endocrinol. Metab. | volume = 25 | issue = 11 | pages = 1441–50 | date = November 1965 | pmid = 5843701 | doi = 10.1210/jcem-25-11-1441 }}</ref> Females are also more sensitive to the hormone.<ref 
+name="isbn0-07-135739-4">{{cite book | author = Dabbs M, Dabbs JM | authorlink = | editor = | others = | title = Heroes, rogues, and lovers: testosterone and behavior | edition = | language = | publisher = McGraw-Hill | location = New York | year = 2000 | origyear = 
+| pages = | quote = | isbn = 0-07-135739-4 | oclc = | doi = | url = | accessdate = }}</ref> Testosterone is observed in most vertebrates.  [[Fish]] make a slightly different form called [[11-ketotestosterone]].<ref name="isbn0-87893-617-3">{{cite book | author = 
+Nelson, Randy F. | authorlink = | editor = | others = | title = An introduction to behavioral endocrinology | edition = | language = | publisher = Sinauer Associates | location = Sunderland, Mass | year = 2005 | origyear = | page = 143 | quote = | isbn = 
+0-87893-617-3 | oclc = | doi = | url = | accessdate = }}</ref> Its counterpart in insects is [[ecdysone]].<ref name="De_Loof_2006">{{cite journal | author = De Loof A | title = Ecdysteroids: the overlooked sex steroids of insects? Males: the black box | journal = 
+Insect Science |date=October 2006 | volume = 13 | issue = 5 | pages = 325–338 | doi = 10.1111/j.1744-7917.2006.00101.x }}</ref> These ubiquitous steroids suggest that [[sex hormone]]s have an ancient evolutionary history.<ref name="Mechoulam_1984">{{cite journal | 
+author = Mechoulam R, Brueggemeier RW, Denlinger DL | title = Estrogens in insects | journal = Journal Cellular and Molecular Life Sciences |date=September 1984 | volume = 40 | issue = 9 | pages = 942–944 | doi = 10.1007/BF01946450 }}</ref>
+{{TOC limit|3}}
+
+== Health effects ==
+In general, [[androgens]] promote [[protein synthesis]] and growth of those tissues with [[androgen receptors]].  Testosterone effects can be classified as [[virilization|virilizing]] and [[anabolism|anabolic]], though the distinction is somewhat artificial, as many 
+of the effects can be considered both.
+
+* ''Anabolic effects'' include growth of [[muscle mass]] and strength, increased [[bone density]] and strength, and stimulation of linear growth and [[bone maturation]].
+* ''Androgenic effects'' include [[Developmental biology|maturation]] of the [[sex organs]], particularly the [[penis]] and the formation of the [[scrotum]] in the fetus, and after birth (usually at [[puberty]]) a deepening of the [[human voice|voice]], growth of 
+the [[beard]] and [[axillary hair]]. Many of these fall into the category of male [[secondary sex characteristics]].
+
+Testosterone effects can also be classified by the age of usual occurrence. For [[postnatal]] effects in both males and females, these are mostly dependent on the levels and duration of circulating free testosterone.
+
+=== Before birth ===
+The ''prenatal androgen effects'' occur during two different stages.  Between 4 and 6 weeks of the gestation.
+*Genital virilization (midline fusion, [[phallus|phallic]] [[urethra]], scrotal thinning and rugation, [[phallic]] enlargement); although the role of testosterone is far smaller than that of [[dihydrotestosterone]].
+*Development of [[prostate]] and [[seminal vesicle]]s.
+
+During the second trimester, androgen level is associated with [[gender]] formation.<ref name="pmid19403051">{{cite journal | author = Swaab DF, Garcia-Falgueras A | title = Sexual differentiation of the human brain in relation to gender identity and sexual 
+orientation | journal = Funct. Neurol. | volume = 24 | issue = 1 | pages = 17–28 | year = 2009 | pmid = 19403051 | doi =  }}</ref>  This period affects the femininization or masculinization of the fetus and can be a better predictor of feminine or masculine 
+behaviours such as sex typed behaviour than an adult's own levels. A mother's testosterone level during pregnancy is correlated with her daughter's sex-typical behavior as an adult, and the correlation is even stronger than with the daughter's own adult testosterone 
+level.<ref name="isbn0-8135-3053-9">{{cite book | author = Browne KR | title = Biology at work: rethinking sexual equality | publisher = Rutgers University Press | location = New Brunswick, N.J | year = 2002 | page = 112 | isbn = 0-8135-3053-9 | url = 
+http://books.google.com/books?id=vq_0BUkcZ5MC&lpg=PP1&dq=Biology%20at%20Work%3A%20Rethinking%20Sexual%20Equality&pg=PA112#v=onepage&q&f=false }}</ref>
+
+=== Early infancy ===
+''Early infancy androgen effects'' are the least understood.  In the first weeks of life for male infants, testosterone levels rise. The levels remain in a pubertal range for a few months, but usually reach the barely detectable levels of childhood by 4–6 months of 
+age.<ref name="pmid4715291">{{cite journal | author = Forest MG, Cathiard AM, Bertrand JA | title = Evidence of testicular activity in early infancy | journal = J. Clin. Endocrinol. Metab. | volume = 37 | issue = 1 | pages = 148–51 | date = July 1973 | pmid = 
+4715291 | doi = 10.1210/jcem-37-1-148 }}</ref><ref name="pmid1379488">{{cite journal | author = Corbier P, Edwards DA, Roffi J | title = The neonatal testosterone surge: a comparative study | journal = Arch Int Physiol Biochim Biophys | volume = 100 | issue = 2 | 
+pages = 127–31 | year = 1992 | pmid = 1379488 | doi = 10.3109/13813459209035274 }}</ref> The function of this rise in humans is unknown. It has been speculated that "brain [[virilization|masculinization]]" is occurring since no significant changes have been 
+identified in other parts of the body.<ref name="pmid18445234">{{cite journal | author = Dakin CL, Wilson CA, Kalló I, Coen CW, Davies DC | title = Neonatal stimulation of 5-HT(2) receptors reduces androgen receptor expression in the rat anteroventral 
+periventricular nucleus and sexually dimorphic preoptic area | journal = Eur. J. Neurosci. | volume = 27 | issue = 9 | pages = 2473–80 | date = May 2008 | pmid = 18445234 | doi = 10.1111/j.1460-9568.2008.06216.x }}</ref>  It is interesting to note that the male 
+brain is masculinized by the aromatization of testosterone into estrogen, which crosses the [[blood–brain barrier]] and enters the male brain, whereas female fetuses have [[alpha-fetoprotein]], which binds the estrogen so that female brains are not affected.<ref 
+name="isbn0-495-60300-7">{{cite book | author = Kalat JW | title = Biological psychology | publisher = Wadsworth, Cengage Learning | location = Belmont, Calif | year = 2009 | pages = | isbn = 0-495-60300-7 | chapter = Reproductive behaviors | chapterurl 
+=http://books.google.com/books?id=ZlSbk5rUY60C&lpg=PA321&ots=PUbcHTdh-A&pg=PA321#v=onepage&q&f=false | page = 321 }}</ref>
+
+=== Pre-peripubertal ===
+''Pre- Peripubertal effects'' are the first observable effects of rising
+androgen levels at the end of childhood, occurring in both boys and girls.
+*Adult-type [[body odor]]
+*Increased oiliness of skin and hair, [[Acne vulgaris|acne]]
+*[[Pubarche]] (appearance of [[pubic hair]])
+*[[Axillary hair]]
+*[[Growth spurt]], accelerated [[epiphysis|bone maturation]]
+*[[Hair]] on upper lip,on chin, and growth of [[sideburn]]s.
+
+=== Pubertal ===
+''Pubertal effects'' begin to occur when androgen has been higher than normal adult female levels for months or years. In males, these are usual late pubertal effects, and occur in women after prolonged periods of heightened levels of free testosterone in the blood.
+*Enlargement of [[sebaceous glands]]. This might cause acne.
+*[[Phallic]] enlargement or [[clitoromegaly]]
+*Increased [[libido]] and frequency of [[erection]] or clitoral engorgement
+*Pubic hair extends to thighs and up toward [[Navel|umbilicus]]
+*[[Facial hair]] ([[sideburns]], [[beard]], [[moustache]])
+* Loss of scalp hair (Androgenetic alopecia)
+*[[Chest hair]], periareolar hair, [[perianal]] hair
+*[[Leg hair]]
+*[[Axillary hair]]
+*Subcutaneous [[body fat|fat]] in face decreases
+*Increased muscle strength and mass<ref name="pmid8637535">{{cite journal | author = Bhasin S, Storer TW, Berman N, Callegari C, Clevenger B, Phillips J, Bunnell TJ, Tricker R, Shirazi A, Casaburi R | title = The effects of supraphysiologic doses of testosterone on 
+muscle size and strength in normal men | journal = N. Engl. J. Med. | volume = 335 | issue = 1 | pages = 1–7 | date = July 1996 | pmid = 8637535 | doi = 10.1056/NEJM199607043350101 }}</ref>
+*Deepening of voice
+*Growth of the [[Adam's apple]]
+*Growth of [[spermatogenic]] tissue in testicles, male [[fertility]]
+*Growth of [[jaw]], brow, chin, nose, and remodeling of facial bone contours, in conjunction with [[human growth hormone]]<ref>{{cite journal|title=Growth Hormone Side Effects|journal=MD Health|url=http://www.md-health.com/Growth-Hormone-Side-Effects.html}}</ref>
+*Shoulders become broader and rib cage expands
+*Completion of bone maturation and termination of growth. This occurs indirectly via [[estradiol]] [[metabolites]] and hence more gradually in men than women.
+
+=== Adult ===
+Adult testosterone effects are more clearly demonstrable in males than in females, but are likely important to both sexes. Some of these effects may decline as testosterone levels decrease in the later decades of adult life.
+
+[[File:Blood values sorted by mass and molar concentration.png|thumb|center|600px|[[Reference ranges for blood tests]], showing adult male testosterone levels in light blue at center-left.]]
+
+====Biological uses====
+* Testosterone is necessary for normal [[sperm]] development. It activates genes in [[Sertoli cell]]s, which promote differentiation of [[spermatogonia]].
+* Regulates acute HPA ([[Hypothalamic–pituitary–adrenal axis]]) response under dominance challenge<ref name="pmid18505319">{{cite journal | author = Mehta PH, Jones AC, Josephs RA | title = The social endocrinology of dominance: basal testosterone predicts cortisol 
+changes and behavior following victory and defeat | journal = J Pers Soc Psychol | volume = 94 | issue = 6 | pages = 1078–93 | date = June 2008 | pmid = 18505319 | doi = 10.1037/0022-3514.94.6.1078 | url = 
+http://homepage.psy.utexas.edu/homepage/faculty/josephs/pdf_documents/index.cfm.pdf }}</ref>
+* Regulator of cognitive and physical energy
+* Maintenance of muscle trophism
+* Testosterone regulates the population of [[Thromboxane A2|thromboxane A<sub>2</sub>]] receptors on [[megakaryocytes]] and [[platelets]] and hence platelet aggregation in humans<ref name="pmid15820970">{{cite journal | author = Ajayi AA, Halushka PV | title = 
+Castration reduces platelet thromboxane A2 receptor density and aggregability | journal = QJM | volume = 98 | issue = 5 | pages = 349–56 | date = May 2005 | pmid = 15820970 | doi = 10.1093/qjmed/hci054 | url =  }}</ref><ref name="pmid7758179">{{cite journal | author 
+= Ajayi AA, Mathur R, Halushka PV | title = Testosterone increases human platelet thromboxane A2 receptor density and aggregation responses | journal = Circulation | volume = 91 | issue = 11 | pages = 2742–7 | date = June 1995 | pmid = 7758179 | doi = 
+10.1161/01.CIR.91.11.2742 }}</ref>
+* High androgen levels are associated with [[menstrual cycle]] irregularities in both clinical populations and healthy women.<ref name="pmid17039468">{{cite journal | author = Van Anders SM, Watson NV | title = Menstrual cycle irregularities are associated with 
+testosterone levels in healthy premenopausal women | journal = Am. J. Hum. Biol. | volume = 18 | issue = 6 | pages = 841–4 | year = 2006 | pmid = 17039468 | doi = 10.1002/ajhb.20555 }}</ref> See [[libido]].
+
+==== Cancer prevention and health risks ====
+* Testosterone does not cause deleterious effects in [[prostate cancer]]. In people who have undergone testosterone deprivation therapy, testosterone increases beyond the castrate level have been shown to increase the rate of spread of an existing prostate 
+cancer.<ref name="pmid19011298">{{cite journal | author = Morgentaler A, Schulman C | title = Testosterone and prostate safety | journal = Front Horm Res | volume = 37 | issue =  | pages = 197–203 | year = 2009 | pmid = 19011298 | doi = 10.1159/000176054 | url =  | 
+isbn = 978-3-8055-8622-1 | series = Frontiers of Hormone Research }}</ref><ref>{{cite journal | author = Rhoden EL, Averbeck MA, Teloken PE | title = Androgen replacement in men undergoing treatment for prostate cancer | journal = J Sex Med | volume = 5 | issue = 9 
+| pages = 2202–8 | year = 2008 | pmid = 18638000 | doi = 10.1111/j.1743-6109.2008.00925.x }}</ref><ref>{{cite journal | author = Morgentaler A, Traish AM | title = Shifting the paradigm of testosterone and prostate cancer: the saturation model and the limits of 
+androgen-dependent growth | journal = Eur Urol | volume = 55 | issue = 2 | pages = 310–20 | year = 2009 | pmid = 18838208 | doi = 10.1016/j.eururo.2008.09.024 }}</ref>
+* Recent studies have shown conflicting results concerning the importance of [[Testosterone and cardiovascular system|testosterone in maintaining cardiovascular health]].<ref name="pmid17285783">{{cite journal | author = Haddad RM, Kennedy CC, Caples SM, Tracz MJ, 
+Boloña ER, Sideras K, Uraga MV, Erwin PJ, Montori VM | title = Testosterone and cardiovascular risk in men: a systematic review and meta-analysis of randomized placebo-controlled trials | journal = Mayo Clin. Proc. | volume = 82 | issue = 1 | pages = 29–39 | date = 
+January 2007 | pmid = 17285783 | doi = 10.4065/82.1.29 | url =  }}</ref><ref name="pmid19464009">{{cite journal | author = Jones TH, Saad F | title = The effects of testosterone on risk factors for, and the mediators of, the atherosclerotic process | journal = 
+Atherosclerosis | volume = 207 | issue = 2 | pages = 318–27 | date = April 2009 | pmid = 19464009 | doi = 10.1016/j.atherosclerosis.2009.04.016 | url =  }}</ref> Nevertheless, maintaining normal testosterone levels in elderly men has been shown to improve many 
+parameters that are thought to reduce cardiovascular disease risk, such as increased lean body mass, decreased visceral fat mass, decreased total cholesterol, and glycemic control.<ref name="pmid18488876">{{cite journal | author = Stanworth RD, Jones TH | title = 
+Testosterone for the aging male; current evidence and recommended practice | journal = Clin Interv Aging | volume = 3 | issue = 1 | pages = 25–44 | year = 2008 | pmid = 18488876 | pmc = 2544367 | doi =  | url =  }}</ref>
+* Men whose testosterone levels are slightly above average are less likely to have high blood pressure, less likely to experience a heart attack, less likely to be obese, and less likely to rate their own health as fair or poor.  However, high testosterone men are 
+more likely to report one or more injuries, more likely to consume five or more alcoholic drinks in a day, more likely to have had a sexually transmitted infection, and more likely to smoke.<ref name="pmid10196726">{{cite journal | author = Booth A, Johnson DR, 
+Granger DA | title = Testosterone and men's health | journal = J Behav Med | volume = 22 | issue = 1 | pages = 1–19 | date = February 1999 | pmid = 10196726 | doi = 10.1023/A:1018705001117 | laysource = CNN | layurl = 
+http://articles.cnn.com/1999-12-03/health/testosterone.wmd_1_testosterone-nanograms-risky-behavior?_s=PM:HEALTH }}</ref>
+
+==== Romantic relationships and fatherhood ====
+Falling in love decreases men's testosterone levels while increasing women's testosterone levels. There has been speculation that these changes in testosterone result in the temporary reduction of differences in behavior between the sexes.<ref 
+name="pmid15177709">{{cite journal | author = Marazziti D, Canale D | title = Hormonal changes when falling in love | journal = Psychoneuroendocrinology | volume = 29 | issue = 7 | pages = 931–6 | date = August 2004 | pmid = 15177709 | doi = 
+10.1016/j.psyneuen.2003.08.006 }}</ref> However, it is suggested that after the "honeymoon phase" ends—about one to three years into a relationship—this change in testosterone levels is no longer apparent.<ref name="pmid15177709" /> Fatherhood also decreases 
+testosterone levels in men, suggesting that the resulting emotional and behavioral changes promote paternal care.<ref>{{cite journal | author = Berg SJ, Wynne-Edwards KE | title = Changes in testosterone, cortisol, and estradiol levels in men becoming fathers | 
+journal = Mayo Clinic Proceedings | volume = 76 | issue = 1 | pages = 582–592 | year = 2001 | pmid = 11393496 | doi = 10.4065/76.6.582 | url =  }}</ref> Men who produce less testosterone are more likely to be in a relationship<ref name="pmid16621328">{{cite journal 
+| author = van Anders SM, Watson NV | title = Relationship status and testosterone in North American heterosexual and non-heterosexual men and women: cross-sectional and longitudinal data | journal = Psychoneuroendocrinology | volume = 31 | issue = 6 | pages = 
+715–23 | date = July 2006 | pmid = 16621328 | doi = 10.1016/j.psyneuen.2006.01.008 }}</ref> and/or married,<ref name = "Booth_Dabbs_1993"/> and men who produce more testosterone are more likely to divorce;<ref name = "Booth_Dabbs_1993">{{cite journal | author = 
+Booth A, Dabbs JM|title=Testosterone and Men's Marriages | journal = Social Forces | year = 1993 | volume = 72 | issue = 2 | pages = 463–477 | doi = 10.1093/sf/72.2.463}}</ref> however, causality cannot be determined in this relationship. Marriage or commitment 
+could cause a decrease in testosterone levels.<ref name=Mazur_Michalek_1998>{{cite journal | author = Mazur A, Michalek J | title = Marriage, Divorce, and Male Testosterone | journal = Social Forces | year = 1998 | volume = 77 | issue = 1 | pages = 315–330 | doi = 
+10.1093/sf/77.1.315 }}</ref> Single men who have not had relationship experience have lower testosterone levels than single men with experience. It is suggested that these single men with prior experience are in a more competitive state than their non-experienced 
+counterparts.<ref name=Gray_2004>{{cite journal | author = Gray PB, Chapman JF, Burnham TC, McIntyre MH, Lipson SF, Ellison PT | title = Human male pair bonding and testosterone | journal = Human Nature | year = 2004 | volume = 15 | issue = 2 | pages = 119–131 | doi 
+= 10.1007/s12110-004-1016-6 }}</ref> Married men who engage in bond-maintenance activities such as spending the day with their spouse/and or child have no different testosterone levels compared to times when they do not engage in such activities. Collectively, these 
+results suggest that the presence of competitive activities rather than bond-maintenance activities  are more relevant to changes in testosterone levels.<ref name="pmid15219639">{{cite journal | author = Gray PB, Campbell BC, Marlowe FW, Lipson SF, Ellison PT | 
+title = Social variables predict between-subject but not day-to-day variation in the testosterone of US men | journal = Psychoneuroendocrinology | volume = 29 | issue = 9 | pages = 1153–62 | date = October 2004 | pmid = 15219639 | doi = 
+10.1016/j.psyneuen.2004.01.008 }}</ref>
+
+Men who produce more testosterone are  more likely to engage in extramarital sex.<ref name=Booth_Dabbs_1993/> Testosterone levels do not rely on physical presence of a partner for men engaging in relationships (same-city vs. long-distance), men have similar 
+testosterone levels across the board.<ref name="pmid16621328" /> Physical presence may be required for women who are in relationships for the testosterone–partner interaction, where same-city partnered women have lower testosterone levels than long-distance 
+partnered women.<ref name="pmid17196592">{{cite journal | author = van Anders SM, Watson NV | title = Testosterone levels in women and men who are single, in long-distance relationships, or same-city relationships | journal = Horm Behav | volume = 51 | issue = 2 | 
+pages = 286–91 | date = February 2007 | pmid = 17196592 | doi = 10.1016/j.yhbeh.2006.11.005 }}</ref>
+
+==== Testosterone and sexual arousal ====
+{{See also|Hormones and sexual arousal}}
+It has been found that when testosterone and endorphins in ejaculated semen meet the cervical wall after sexual intercourse, females receive a spike in testosterone, endorphin, and [[oxytocin]] levels, and males after orgasm during copulation experience an increase 
+in endorphins and a marked increase in oxytocin levels. This adds to the hospitable physiological environment in the female internal reproductive tract for conceiving, and later for nurturing the conceptus in the pre-embryonic stages, and stimulates feelings of 
+love, desire, and paternal care in the male (this is the only time male oxytocin levels rival a female's).<ref name="pmid15177709" />
+
+Testosterone levels follow a nyctohemeral rhythm that peaks early each day, regardless of sexual activity.<ref name="pmid5061159">{{cite journal | author = Fox CA, Ismail AA, Love DN, Kirkham KE, Loraine JA | title = Studies on the relationship between plasma 
+testosterone levels and human sexual activity | journal = J. Endocrinol. | volume = 52 | issue = 1 | pages = 51–8 | date = January 1972 | pmid = 5061159 | doi = 10.1677/joe.0.0520051 }}</ref>
+
+There are positive correlations between positive orgasm experience in women and testosterone levels where relaxation was a key perception of the experience. There is no correlation between testosterone and men's perceptions of their orgasm experience, and also no 
+correlation between higher testosterone levels and greater sexual assertiveness in either sex.<ref name="pmid19409392">{{cite journal | author = van Anders SM, Dunn EJ | title = Are gonadal steroids linked with orgasm perceptions and sexual assertiveness in women 
+and men? | journal = Horm Behav | volume = 56 | issue = 2 | pages = 206–13 | date = August 2009 | pmid = 19409392 | doi = 10.1016/j.yhbeh.2009.04.007 }}</ref>
+
+An increase in testosterone levels has also been found to occur in both men and women who have masturbation-induced orgasms.<ref name="pmid10367606">{{cite journal | author = Exton MS, Bindert A, Krüger T, Scheller F, Hartmann U, Schedlowski M | title = 
+Cardiovascular and endocrine alterations after masturbation-induced orgasm in women | journal = Psychosom Med | volume = 61 | issue = 3 | pages = 280–9 | year = 1999 | pmid = 10367606 | doi = 10.1097/00006842-199905000-00005 }}</ref><ref name="pmid135817">{{cite 
+journal | author = Purvis K, Landgren BM, Cekan Z, Diczfalusy E | title = Endocrine effects of masturbation in men | journal = J. Endocrinol. | volume = 70 | issue = 3 | pages = 439–44 | date = September 1976 | pmid = 135817 | doi = 10.1677/joe.0.0700439 }}</ref>
+
+=====Mammalian studies=====
+Studies conducted on rats have indicated that their degree of sexual arousal is sensitive to reductions in testosterone. When testosterone-deprived rats were given medium levels of testosterone, their sexual behaviors (copulation, partner preference, etc.) resumed, 
+but not when given low amounts of the same hormone. Therefore, these mammals may provide a model for studying clinical populations among humans suffering from sexual arousal deficits such as [[hypoactive sexual desire disorder]].<ref name="pmid20920505">{{cite 
+journal | author = Harding SM, Velotta JP | title = Comparing the relative amount of testosterone required to restore sexual arousal, motivation, and performance in male rats | journal = Horm Behav | volume = 59 | issue = 5 | pages = 666–73 | date = May 2011 | pmid 
+= 20920505 | doi = 10.1016/j.yhbeh.2010.09.009 }}</ref>
+
+In one study, almost every mammalian species examined demonstrated a marked increase in a male's testosterone level upon encountering a ''novel'' female. P.J. James et al. investigated the role of genotype on such so-called reflexive testosterone increases in male 
+mice. They also concluded that this response is related to the male's initial level of sexual arousal.<ref name="pmid16828762">{{cite journal | author = James PJ, Nyby JG, Saviolakis GA | title = Sexually stimulated testosterone release in male mice (Mus musculus): 
+roles of genotype and sexual arousal | journal = Horm Behav | volume = 50 | issue = 3 | pages = 424–31 | date = September 2006 | pmid = 16828762 | doi = 10.1016/j.yhbeh.2006.05.004 }}</ref>
+
+In non-human primates it has been suggested that testosterone in puberty stimulates [[sexual motivation]], which allows the primate to increasingly seek out sexual experiences with females and thus creates a sexual preference for females.<ref 
+name="pmid11534996">{{cite journal | author = Wallen K | title = Sex and context: hormones and primate sexual motivation | journal = Horm Behav | volume = 40 | issue = 2 | pages = 339–57 | date = September 2001 | pmid = 11534996 | doi = 10.1006/hbeh.2001.1696 
+}}</ref> Some research has also indicated that if testosterone is eliminated in an adult male human or other adult male primate's system, its ''sexual motivation'' decreases, but there is no corresponding decrease in ''ability'' to engage in sexual activity 
+(mounting, ejaculating, etc.).<ref name="pmid11534996"/>
+
+===== Male sexual arousal =====
+Higher levels of testosterone were associated with periods of sexual activity within subjects, but between subjects testosterone levels were higher for less sexually active individuals.<ref name="pmid1275688">{{cite journal | author = Kraemer HC, Becker HB, Brodie 
+HK, Doering CH, Moos RH, Hamburg DA | title = Orgasmic frequency and plasma testosterone levels in normal human males | journal = Arch Sex Behav | volume = 5 | issue = 2 | pages = 125–32 | date = March 1976 | pmid = 1275688 | doi = 10.1007/BF01541869 | url =  
+}}</ref>
+
+Men who watch a sexually explicit movie have an average increase of 35% in testosterone, peaking at 60–90 minutes after the end of the film, but no increase is seen in men who watch sexually neutral films.<ref>{{cite journal | author = Pirke KM, Kockott G, Dittmar F 
+| title = Psychosexual stimulation and plasma testosterone in man | journal = Arch Sex Behav | volume = 3 | issue = 6 | pages = 577–84 | date = November 1974 | pmid = 4429441 | doi = 10.1007/BF01541140 }}</ref> Men who watch sexually explicit films also report 
+increased motivation, competitiveness, and decreased exhaustion.<ref name="pmid4001279">{{cite journal | author = Hellhammer DH, Hubert W, Schürmeyer T | title = Changes in saliva testosterone after psychological stimulation in men | journal = 
+Psychoneuroendocrinology | volume = 10 | issue = 1 | pages = 77–81 | year = 1985 | pmid = 4001279 | doi = 10.1016/0306-4530(85)90041-1 }}</ref>  Previous research has found a link between relaxation following sexual arousal and testosterone levels.<ref 
+name="pmid3602262">{{cite journal | author = Rowland DL, Heiman JR, Gladue BA, Hatch JP, Doering CH, Weiler SJ | title = Endocrine, psychological and genital response to sexual arousal in men | journal = Psychoneuroendocrinology | volume = 12 | issue = 2 | pages = 
+149–58 | year = 1987 | pmid = 3602262 | doi = 10.1016/0306-4530(87)90045-X }}</ref>
+
+A 2002 study found that testosterone increased in heterosexual men after having had a brief conversation with a woman. The increase in testosterone levels was associated with the degree that the women thought the men were trying to impress them.<ref 
+name=Roney_2003>{{cite journal | author = Roney JR, Mahler SV, Maestripieri D | title = Behavioral and hormonal responses of men to brief interactions with women | journal = Evolution and Human Behavior | year = 2003 | volume = 24 | issue = 6 | pages = 365–375 | doi 
+= 10.1016/S1090-5138(03)00053-9 }}</ref>
+
+Men's levels of testosterone, a hormone known to affect men's mating behaviour, changes depending on whether they are exposed to an ovulating or nonovulating woman's body odour. Men who are exposed to scents of ovulating women maintained a stable testosterone level 
+that was higher than the testosterone level of men exposed to nonovulation cues. Testosterone levels and sexual arousal in men are heavily aware of hormone cycles in females.<ref name="pmid20424057">{{cite journal | author = Miller SL, Maner JK | title = Scent of a 
+woman: men's testosterone responses to olfactory ovulation cues | journal = Psychol Sci | volume = 21 | issue = 2 | pages = 276–83 | date = February 2010 | pmid = 20424057 | doi = 10.1177/0956797609357733 }}</ref> This may be linked to the ''ovulatory shift 
+hypothesis'',<ref name = "Gangestead_2005">{{cite journal | author = Gangestead SW, Thornhill R, Garver-Apgar CE | title = Adaptations to Ovulation: Implications for Sexual and Social Behavior | journal = Current Directions in Psychological Science | volume = 14 | 
+issue = 6 | pages = 312–316 | year = 2005 | doi = 10.1111/j.0963-7214.2005.00388.x }}</ref>  where males are adapted to respond to the ovulation cycles of females by sensing when they are most fertile and whereby females look for preferred male mates when they are 
+the most fertile; both actions may be driven by hormones.
+
+In a 1991 study, males were exposed to either visual or auditory erotic stimuli and asked to complete a cognitive task, where the number of errors on the task indicated how distracted the participant was by the stimuli. It concluded that men with lower thresholds 
+for sexual arousal have a greater likelihood to attend to sexual information and that testosterone may have an impact by enhancing their attention to the relevant stimuli.<ref name="pmid1937428">{{cite journal | author = Alexander GM, Sherwin BB | title = The 
+association between testosterone, sexual arousal, and selective attention for erotic stimuli in men | journal = Horm Behav | volume = 25 | issue = 3 | pages = 367–81 | date = September 1991 | pmid = 1937428 | doi = 10.1016/0018-506X(91)90008-6 }}</ref>
+
+[[Sperm competition]] theory: Testosterone levels are shown to increase as a response to previously neutral stimuli when conditioned to become sexual in male rats.<ref name="pmid6665072">{{cite journal | author = Hart BL | title = Role of testosterone secretion and 
+penile reflexes in sexual behavior and sperm competition in male rats: a theoretical contribution | journal = Physiol. Behav. | volume = 31 | issue = 6 | pages = 823–7 | date = December 1983 | pmid = 6665072 | doi = 10.1016/0031-9384(83)90279-2 }}</ref> This 
+reaction engages penile reflexes (such as erection and ejaculation) that aid in sperm competition when more than one male is present in mating encounters, allowing for more production of successful sperm and a higher chance of reproduction.
+
+===== Female sexual arousal =====
+Androgens may modulate the physiology of vaginal tissue and contribute to female genital sexual arousal.<ref name="pmid12007897">{{cite journal | author = Traish AM, Kim N, Min K, Munarriz R, Goldstein I | title = Role of androgens in female genital sexual arousal: 
+receptor expression, structure, and function | journal = Fertil. Steril. | volume = 77 Suppl 4 | issue =  | pages = S11–8 | date = April 2002 | pmid = 12007897 | doi = 10.1016/s0015-0282(02)02978-3 }}</ref> Women's level of testosterone is higher when measured 
+pre-intercourse vs pre-cuddling, as well as post-intercourse vs post-cuddling.<ref name="pmid17320881">{{cite journal | author = van Anders SM, Hamilton LD, Schmidt N, Watson NV | title = Associations between testosterone secretion and sexual activity in women | 
+journal = Horm Behav | volume = 51 | issue = 4 | pages = 477–82 | date = April 2007 | pmid = 17320881 | doi = 10.1016/j.yhbeh.2007.01.003 }}</ref> There is a time lag effect when testosterone is administered, on genital arousal in women. In addition, a continuous 
+increase in vaginal sexual arousal may result in higher genital sensations and sexual appetitive behaviors.<ref name="pmid10665617">{{cite journal | author = Tuiten A, Van Honk J, Koppeschaar H, Bernaards C, Thijssen J, Verbaten R | title = Time course of effects of 
+testosterone administration on sexual arousal in women | journal = Arch. Gen. Psychiatry | volume = 57 | issue = 2 | pages = 149–53; discussion 155–6 | date = February 2000 | pmid = 10665617 | doi = 10.1001/archpsyc.57.2.149 }}</ref>
+
+When females have a higher baseline level of testosterone, they have higher increases in sexual arousal levels but smaller increases in testosterone, indicating a ceiling effect on testosterone levels in females. Sexual thoughts also change the level of testosterone 
+but not level of cortisol in the female body, and hormonal contraceptives may have an impact on the variation in testosterone response to sexual thoughts.<ref name="pmid21185838">{{cite journal | author = Goldey KL, van Anders SM | title = Sexy thoughts: effects of 
+sexual cognitions on testosterone, cortisol, and arousal in women | journal = Horm Behav | volume = 59 | issue = 5 | pages = 754–64 | date = May 2011 | pmid = 21185838 | doi = 10.1016/j.yhbeh.2010.12.005 }}</ref>
+
+Testosterone may prove to be an effective treatment in female sexual arousal disorders.<ref name="Bolour_2005">{{cite journal | author = Bolour S, Braunstein G | title = Testosterone therapy in women: a review | journal = Int. J. Impot. Res. | volume = 17 | issue = 
+5 | pages = 399–408 | year = 2005 | pmid = 15889125 | doi = 10.1038/sj.ijir.3901334 }}</ref> Currently there is no FDA approved androgen preparation for the treatment of androgen insufficiency, however it has been used off-label to treat low [[libido]] and sexual 
+dysfunction in older women. Testosterone may be a treatment for postmenopausal women as long as they are effectively estrogenized.<ref name="Bolour_2005"/>
+
+==== Behavior and personality ====
+Testosterone levels play a major role in risk-taking during financial decisions.<ref name="pmid19706398">{{cite journal | author = Sapienza P, Zingales L, Maestripieri D | title = Gender differences in financial risk aversion and career choices are affected by 
+testosterone | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 106 | issue = 36 | pages = 15268–73 | date = September 2009 | pmid = 19706398 | pmc = 2741240 | doi = 10.1073/pnas.0907352106 | bibcode = 2009PNAS..10615268S }}</ref><ref name="Apicella_2008">{{cite 
+journal | author = Apicella CL, Dreber A, Campbell B, Gray PB, Hoffman M, Little AC | title = Testosterone and financial risk preferences | journal = Evolution and Human Behavior | volume = 29 | issue = 6 | pages = 384–390 |date=November 2008 | pmid = | doi = 
+10.1016/j.evolhumbehav.2008.07.001 | url =  }}</ref>
+
+=== Brain ===
+As testosterone affects the entire body (often by enlarging; males have bigger hearts, lungs, liver, etc.), the brain is also affected by this "sexual" differentiation;<ref name="pmid19403051"/> the [[enzyme]] [[aromatase]] converts testosterone into [[estradiol]] 
+that is responsible for [[masculinization]] of the brain in male mice. In humans, masculinization of the fetal brain appears, by observation of gender preference in patients with [[congenital disease]]s of androgen formation or androgen receptor function, to be 
+associated with functional androgen receptors.<ref name="pmid11534997">{{cite journal | author = Wilson JD | title = Androgens, androgen receptors, and male gender role behavior | journal = Horm Behav | volume = 40 | issue = 2 | pages = 358–66 | date = September 
+2001 | pmid = 11534997 | doi = 10.1006/hbeh.2001.1684 }}</ref>
+
+There are some differences between a male and female brain (possibly the result of different testosterone levels), one of them being size: the male human brain is, on average, larger.<ref name="pmid17544382">{{cite journal | author = Cosgrove KP, Mazure CM, Staley 
+JK | title = Evolving knowledge of sex differences in brain structure, function, and chemistry | journal = Biol. Psychiatry | volume = 62 | issue = 8 | pages = 847–55 | date = October 2007 | pmid = 17544382 | pmc = 2711771 | doi = 10.1016/j.biopsych.2007.03.001 
+}}</ref> In a Danish study from 2003, men were found to have a total myelinated fiber length of 176,000&nbsp;km at the age of 20, whereas in women the total length was 149,000&nbsp;km (approx. 15% less).<ref name="pmid12794739">{{cite journal | author = Marner L, 
+Nyengaard JR, Tang Y, Pakkenberg B | title = Marked loss of myelinated nerve fibers in the human brain with age | journal = J. Comp. Neurol. | volume = 462 | issue = 2 | pages = 144–52 | date = July 2003 | pmid = 12794739 | doi = 10.1002/cne.10714 }}</ref>
+
+A study conducted in 1996 found no immediate short term effects on mood or behavior from the administration of [[wiktionary:supraphysiological|supraphysiologic]] doses of testosterone for 10 weeks on 43 healthy men.<ref name="pmid8637535"/>  Another study found a 
+correlation between testosterone and risk tolerance in career choice among women.<ref>{{cite journal | author = Sapienza P, Zingales L, Maestripieri D | title = Gender differences in financial risk aversion and career choices are affected by testosterone | journal = 
+Proc Natl Acad Sci USA | volume = 106 | issue = 36 | pages = 15268–15273 | year = 2009 | pmid = 19706398 | pmc = 2741240 | doi = 10.1073/pnas.0907352106 | url = http://www.pnas.org/content/early/2009/08/20/0907352106 | bibcode = 2009PNAS..10615268S 
+}}</ref><ref>{{cite web | url = http://www.npr.org/templates/story/story.php?storyId=112334459 | title = Testosterone Affects Some Women's Career Choices | date = August 28, 2009 | publisher = NPR}}</ref>
+
+The literature suggests that attention, memory, and spatial ability are key cognitive functions affected by testosterone in humans. Preliminary evidence suggests that low testosterone levels may be a risk factor for cognitive decline and possibly for [[dementia]] of 
+the Alzheimer's type,<ref name="pmid15582279">{{cite journal | author = Hogervorst E, Bandelow S, Combrinck M, Smith AD | title = Low free testosterone is an independent risk factor for Alzheimer's disease | journal = Exp. Gerontol. | volume = 39 | issue = 11–12 | 
+pages = 1633–9 | year = 2004 | pmid = 15582279 | doi = 10.1016/j.exger.2004.06.019 }}</ref><ref name="pmid14745052">{{cite journal | author = Moffat SD, Zonderman AB, Metter EJ, Kawas C, Blackman MR, Harman SM, Resnick SM | title = Free testosterone and risk for 
+Alzheimer disease in older men | journal = Neurology | volume = 62 | issue = 2 | pages = 188–93 | date = January 2004 | pmid = 14745052 | doi = 10.1212/WNL.62.2.188 }}</ref><ref name="pmid16785599">{{cite journal | author = Pike CJ, Rosario ER, Nguyen TV | title = 
+Androgens, aging, and Alzheimer's disease | journal = Endocrine | volume = 29 | issue = 2 | pages = 233–41 | date = April 2006 | pmid = 16785599 | doi = 10.1385/ENDO:29:2:233 }}</ref><ref name="pmid15383512">{{cite journal | author = Rosario ER, Chang L, Stanczyk 
+FZ, Pike CJ | title = Age-related testosterone depletion and the development of Alzheimer disease | journal = JAMA | volume = 292 | issue = 12 | pages = 1431–2 | date = September 2004 | pmid = 15383512 | doi = 10.1001/jama.292.12.1431-b }}</ref> a key argument in 
+[[life extension]] medicine for the use of testosterone in anti-aging therapies. Much of the literature, however, suggests a curvilinear or even quadratic relationship between spatial performance and circulating testosterone,<ref name="pmid8817730">{{cite journal | 
+author = Moffat SD, Hampson E | title = A curvilinear relationship between testosterone and spatial cognition in humans: possible influence of hand preference | journal = Psychoneuroendocrinology | volume = 21 | issue = 3 | pages = 323–37 | date = April 1996 | pmid 
+= 8817730 | doi = 10.1016/0306-4530(95)00051-8 }}</ref> where both hypo- and hypersecretion (deficient- and excessive-secretion) of circulating androgens have negative effects on cognition.
+
+=== Aggression and criminality ===
+{{See also|Aggression#Testosterone|biosocial criminology}}
+The "evolutionary neuroandrogenic theory" focuses on the hormone testosterone as a factor influencing aggression and criminality and being evolutionarily beneficial during certain forms of competition. In most species, males are more aggressive than females. 
+Castration of males usually has a pacifying effect on their aggressive behavior. In humans, males engage in crime and especially violent crime more than females. Their involvement in crime usually rises in the early teens to mid teens, at the same time as 
+testosterone levels rise. Research on the relationship between testosterone and aggression is difficult, since the only reliable measurement of brain testosterone is by a [[lumbar puncture]] that is not done for research purposes. Studies therefore have often 
+instead used more unreliable measurements from blood or saliva.{{citation needed|date=December 2013}}
+
+Most studies support a link between adult criminality and testosterone, although the relationship is modest if examined separately for each sex. Nearly all studies of juvenile delinquency and testosterone are not significant. Most studies have also found 
+testosterone to be associated with behaviors or personality traits linked with criminality such as [[Antisocial personality disorder|antisocial behavior]] and [[alcoholism]]. Many studies have also been done on the relationship between more general aggressive 
+behavior/feelings and testosterone. About half the studies have found a relationship and about half no relationship.<ref name="isbn0-12-373612-9">{{cite book | author = Wright J, Ellis L, Beaver K | title = Handbook of crime correlates | publisher = Academic Press | 
+location = San Diego | year = 2009 | pages =208–210 | isbn = 0-12-373612-9 }}</ref>
+
+Testosterone is only one of many factors that influence aggression and the effects of previous experience and environmental stimuli have been found to correlate more strongly. A few studies indicate that the testosterone derivative [[estradiol]] (one form of 
+[[estrogen]]) might play an even more important role in male aggression.<ref name="isbn0-12-373612-9"/><ref>Goldman D, Lappalainen J, Ozaki N. Direct analysis of candidate genes in impulsive disorders. In: Bock G, Goode J, eds. Genetics of Criminal and Antisocial 
+Behaviour. Ciba Foundation Symposium 194. Chichester: John Wiley & Sons; 1996.</ref><ref>{{cite journal | author = Coccaro E | year = 1996 | title = Neurotransmitter correlates of impulsive aggression in humans. In: Ferris C, Grisso T, eds. Understanding Aggressive 
+Behaviour inn Children | url = | journal = Annals of the New York Academy of Sciences | volume = 794 | issue = | pages = 82–89 | doi=10.1111/j.1749-6632.1996.tb32511.x}}</ref><ref>{{cite journal | author = Finkelstein J., Susman E., Chinchilli V., Kunselman S., 
+D'Arcangelo M. R., Schwab J., Demers L., Liben L., Lookingbill G., Kulin H. E. | year = 1997 | title = Estrogen or testosterone increases self-reported aggressive behaviors in hypogonadal adolescents | url = | journal = Journal of Clinical Endocrinology and 
+Metabolism | volume = 82 | issue = 8| pages = 2433–2438 | doi=10.1210/jc.82.8.2433}}</ref>
+ 	
+It has been empirically shown that boys who had a history of high physical aggression, from age 6 to 12, were found to have lower testosterone levels at age 13 compared with boys with no history of high physical aggression. The former were also failing in school and 
+were unpopular with their peers. Both concurrent and longitudinal analyses indicate that testosterone levels were positively associated with social success rather than with physical aggression.<ref>Journal of the American Academy of Child & Adolescent Psychiatry – 
+Volume 35, Issue 10 , Pages 1322–1330, October 1996</ref>
+
+A study at the Universities of Zurich and Royal Holloway London with more than 120 experimental subjects has shown that the sexual hormone can encourage fair behavior. For the study subjects took part in a behavioral experiment where the distribution of a real 
+amount of money was decided. The rules allowed both fair and unfair offers. The negotiating partner could subsequently accept or decline the offer. The fairer the offer, the less probable a refusal by the negotiating partner. If no agreement was reached, neither 
+party earned anything. Test subjects with an artificially enhanced testosterone level generally made better, fairer offers than those who received placebos, thus reducing the risk of a rejection of their offer to a minimum. Two later studies have empirically 
+confirmed these results.<ref>"Prejudice and truth about the effect of testosterone on human bargaining behaviour" – C. Eisenegger, M. Naef R. Snozzi1, M. Heinrichs & E. Fehr – Nature 463, 356–359 (January 21, 2010) | doi:10.1038/nature08711; Received September 15, 
+2009; Accepted November 30, 2009; Published online December 8, 2009</ref><ref>"New evidence on testosterone and cooperation" – Jack van Honk, Estrella R. Montoya, Peter A. Bos, Mark van Vugt & David Terburg – Nature 485, E4–E5 (May 24, 2012) doi:10.1038/nature11136 
+Received October 19, 2011 Accepted March 13, 2012 Published online May 23, 2012</ref><ref>Eisenegger et al. reply – C. Eisenegger, M. Naef, R. Snozzi, M. Heinrichs & E. Fehr – Nature 485, E5–E6 (May 24, 2012) {{DOI|10.1038/nature11137}}</ref>
+
+Estradiol is known to correlate with aggression in male mice.<ref name="pmid18280561">{{cite journal | author = Soma KK, Scotti MA, Newman AE, Charlier TD, Demas GE | title = Novel mechanisms for neuroendocrine regulation of aggression | journal = Front 
+Neuroendocrinol | volume = 29 | issue = 4 | pages = 476–89 | date = October 2008 | pmid = 18280561 | doi = 10.1016/j.yfrne.2007.12.003 | url =  }}</ref> Moreover, the conversion of testosterone to estradiol regulates male aggression in [[sparrows]] during breeding 
+season.<ref name="pmid11016791">{{cite journal | author = Soma KK, Sullivan KA, Tramontin AD, Saldanha CJ, Schlinger BA, Wingfield JC | title = Acute and chronic effects of an aromatase inhibitor on territorial aggression in breeding and nonbreeding male song 
+sparrows | journal = J. Comp. Physiol. A | volume = 186 | issue = 7–8 | pages = 759–69 | year = 2000 | pmid = 11016791 | doi = 10.1007/s003590000129 }}</ref>
+
+== Medical uses ==
+The primary use of testosterone is the treatment of males with too little or no natural endogenous testosterone production—males with [[hypogonadism]].{{citation needed|date=October 2014}} This is known as hormone replacement therapy or testosterone replacement 
+therapy (TRT), which maintains serum testosterone levels in the normal range.
+
+Testosterone has also been given for many other purposes besides replacement. Examples include reducing [[infertility]], correcting lack of libido or erectile dysfunction, correcting [[osteoporosis]], encouraging [[penis enlargement|penile enlargement]], encouraging 
+height growth, encouraging [[bone marrow]] stimulation and reversing the effects of [[anemia]], and appetite stimulation. By the late 1940s, testosterone was being touted as an anti-aging wonder drug (e.g., see [[Paul de Kruif]]'s ''The Male Hormone'').<ref name = 
+"de Kruif_1945"/> Decline of testosterone production with age has led to interest in [[androgen replacement therapy]].<ref name="pmid16985841">{{cite journal | author = Myers JB, Meacham RB | title = Androgen Replacement Therapy in the Aging Male | journal = Rev 
+Urol | volume = 5 | issue = 4 | pages = 216–26 | year = 2003 | pmid = 16985841 | pmc = 1508369 | doi =  | url =  }}</ref>
+
+Testosterone may be used as a monotherapy in [[dysthymia]] and minor depression or as an augmentation therapy in major depression in middle-aged men with low testosterone. However, review of the current literature does not show a statistically significant impact on 
+the mood of the men with normal levels of testosterone or on the mood of the older men with low testosterone.<ref name="pmid24501728">{{cite journal | author = Amanatkar HR, Chibnall JT, Seo BW, Manepalli JN, Grossberg GT | title = Impact of exogenous testosterone 
+on mood: a systematic review and meta-analysis of randomized placebo-controlled trials | journal = Ann Clin Psychiatry | volume = 26 | issue = 1 | pages = 19–32 | year = 2014 | pmid = 24501728 | doi =  | url = 
+http://www.aacp.com/pdf%2F0214%2F0214ACP%5FAmanatkar%2Epdf }}</ref>
+
+To take advantage of its [[virilizing]] effects, testosterone is often administered to [[transsexual|transsexual men]] as part of the [[Hormone replacement therapy (female-to-male)|hormone replacement therapy]],<ref>{{cite web | 
+url=http://www.nhs.uk/Conditions/Gender-dysphoria/Pages/Treatment.aspx | title=Gender dysphoria – Treatment | publisher=NHS Gov.uk | date=Page last reviewed: May 21, 2012 | accessdate=October 31, 2013}}</ref> with a "target level" of the normal male testosterone 
+level. Likewise, [[trans women|transsexual women]] are sometimes prescribed [[antiandrogen|anti-androgens]] to decrease the level of testosterone in the body and allow for the effects of estrogen to develop.
+
+Testosterone therapy may improve the management of [[type 2 diabetes]].<ref name="pmid18772488">{{cite journal | author = Traish AM, Saad F, Guay A | title = The dark side of testosterone deficiency: II. Type 2 diabetes and insulin resistance | journal = J. Androl. 
+| volume = 30 | issue = 1 | pages = 23–32 | year = 2009 | pmid = 18772488 | doi = 10.2164/jandrol.108.005751 | url =  }}</ref> Low testosterone has been associated with the development of [[Alzheimer's disease]].<ref name="pmid16785599"/><ref name="pmid15383512"/> A 
+small trial in 2005 showed mixed results in using testosterone to combat the effects of aging.<ref name="pmid18167405">{{cite journal | author = Emmelot-Vonk MH, Verhaar HJ, Nakhai Pour HR, Aleman A, Lock TM, Bosch JL, Grobbee DE, van der Schouw YT | title = Effect 
+of testosterone supplementation on functional mobility, cognition, and other parameters in older men: a randomized controlled trial | journal = JAMA | volume = 299 | issue = 1 | pages = 39–52 | date = January 2008 | pmid = 18167405 | doi = 10.1001/jama.2007.51 | url 
+=  }}</ref>
+
+Males with borderline testosterone levels and sexual dysfunction may benefit from a trial of testosterone.<ref name="pmid12917096">{{cite journal | author = Guay AT, Spark RF, Bansal S, Cunningham GR, Goodman NF, Nankin HR, Petak SM, Perez JB | title = American 
+Association of Clinical Endocrinologists medical guidelines for clinical practice for the evaluation and treatment of male sexual dysfunction: a couple's problem—2003 update | journal = Endocr Pract | volume = 9 | issue = 1 | pages = 77–95 | year = 2003 | pmid = 
+12917096 | doi = 10.4158/EP.9.1.77 | url = http://aace.metapress.com/content/9j3jxth5vc3nqd9l/fulltext.pdf }}</ref>
+
+=== Low levels due to aging ===
+{{See also|Testosterone#Adverse effects}}
+Testosterone levels decline gradually with age.(see [[andropause]]) The [[Food and Drug Administration]] (FDA) stated in 2015 that neither the benefits nor the safety of testosterone have been established for low testosterone levels due to aging.<ref 
+name=FDA2015>{{cite web |author=Staff |title=Testosterone Products: Drug Safety Communication - FDA Cautions About Using Testosterone Products for Low Testosterone Due to Aging; Requires Labeling Change to Inform of Possible Increased Risk of Heart Attack And Stroke 
+|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm436280.htm |date=3 March 2015 |work=[[FDA]] |accessdate=5 March 2015 }}</ref> The FDA has required that testosterone pharmaceutical labels include warning information 
+about the possibility of an increased risk of heart attacks and stroke.<ref name=FDA2015/>
+
+=== Insufficiency ===
+{{Further|Hypogonadism|Androgen deficiency}}
+Testosterone insufficiency (also termed  hypotestosteronism or hypotestosteronemia) is an abnormally low testosterone production. It may occur because of testicular dysfunction ([[primary hypogonadism]]) or hypothalamic-pituitary dysfunction ([[secondary 
+hypogonadism]]) and may be congenital or acquired.<ref>{{cite journal | author = Gould DC, Petty R | title = The male menopause: does it exist?: For: Some men need investigation and testosterone treatment | journal = West. J. Med. | volume = 173 | issue = 2 | pages 
+= 76–8 | date = August 2000 | pmid = 10924412 | pmc = 1070997 | doi = 10.1136/ewjm.173.2.76 | url =  }}</ref> An acquired form of hypotestosteronism is the decline in testosterone levels that occurs by [[aging]], sometimes called "[[andropause]]" in men, as a 
+comparison to the decline in [[estrogen]] that comes with [[menopause]] in women. In Western countries, average testosterone levels are receding in men of all ages.<ref name="pmid17062768">{{cite journal | author = Travison TG, Araujo AB, O'Donnell AB, Kupelian V, 
+McKinlay JB | title = A population-level decline in serum testosterone levels in American men | journal = J. Clin. Endocrinol. Metab. | volume = 92 | issue = 1 | pages = 196–202 | date = January 2007 | pmid = 17062768 | doi = 10.1210/jc.2006-1375 }}</ref><ref 
+name="Dindyal_2007">{{cite journal | author = Dindyal S| title=The sperm count has been decreasing steadily for many years in Western industrialised countries: Is there an endocrine basis for this decrease? | journal=The Internet Journal of Urology | volume=2 
+|issue=1 | pages=1–21 | year=2007 
+|url=http://www.ispub.com/journal/the-internet-journal-of-urology/volume-2-number-1/the-sperm-count-has-been-decreasing-steadily-for-many-years-in-western-industrialised-countries-is-there-an-endocrine-basis-for-this-decrease.html}}</ref>
+
+===Women===
+Testosterone supplementation is effective in the short term for [[hypoactive sexual desire disorder]].<ref name=Wie2014/> Its long term safety, however, is unclear.<ref name=Wie2014>{{cite journal | author = Wierman ME, Arlt W, Basson R, Davis SR, Miller KK, Murad 
+MH, Rosner W, Santoro N | title = Androgen therapy in women: a reappraisal: an endocrine society clinical practice guideline. | journal = The Journal of Clinical Endocrinology and Metabolism | volume = 99 | issue = 10 | pages = 3489–510 | date = October 2014 | pmid 
+= 25279570 | doi = 10.1210/jc.2014-2260 }}</ref>
+
+Treating low androgen levels with testosterone is not generally recommended in women when it is due to [[hypopituitarism]], [[adrenal insufficiency]], or following surgical removal of the ovaries.<ref name=Wie2014/> It is also not usually recommended for improving 
+cognition, the risk of heart disease, bone strength or for generalized well being.<ref name=Wie2014/>
+
+==Non-medical use==
+
+=== Athletics ===
+Testosterone can be used by an [[sportsperson|athlete]] in order to improve performance, but it is considered to be a form of [[Doping (sport)|doping]] in most sports.  There are several application methods for testosterone, including [[intramuscular injection]]s, 
+[[transdermal|transdermal gels and patches]], and implantable pellets. Supplement of the hormone results in lower metabolic production via the [[Ray Farquharson|Farquharson phenomenon]], creating long-term dependence for improved performance level.{{citation 
+needed|date=September 2012}}
+
+[[Anabolic steroids]] (including testosterone) have also been taken to enhance muscle development, strength, or endurance. They do so directly by increasing the muscles' protein synthesis.  As a result, muscle fibers become larger and repair faster than the average 
+person's.
+After a series of scandals and publicity in the 1980s (such as [[Ben Johnson (sprinter)|Ben Johnson's]] improved performance at the [[1988 Summer Olympics]]), [[prohibition]]s of anabolic steroid use were renewed or strengthened by many sports organizations. 
+Testosterone and other anabolic steroids were designated a "[[controlled substance]]" by the [[United States Congress]] in 1990, with the ''Anabolic Steroid Control Act''.<ref>{{cite web | url = 
+http://www.ussc.gov/USSCsteroidsreport-0306.pdf#search=%22Anabolic%20Steroid%20Control%20Act%20of%201990%22 | title = Anabolic Steroid Control Act| publisher = United States Sentencing Commission|year = 1990}}</ref> Their use is seen as a seriously 
+problematic{{citation needed|date=October 2014}} issue in modern sport, particularly given the lengths to which athletes and professional laboratories go to in trying to conceal such use from sports regulators. Steroid use once again came into the spotlight recently 
+as a result of the [[Chris Benoit]] double murder-suicide in 2007, however, there has been no evidence indicating steroid use as a contributing factor.{{citation needed|date=February 2014}}
+
+Some female athletes may have naturally higher levels of testosterone than others, and may be asked to consent to a “therapeutic proposal”, either surgery or drugs, to decrease testosteone levels to a level thought acceptable to compete fairly with others.<ref 
+name="NYT-20140411">{{cite news |last1=Karkazis |first1=Katrina |last2=Jordan-Young |first2=Rebecca |title=The Trouble With Too Much T |url=http://www.nytimes.com/2014/04/11/opinion/the-trouble-with-too-much-t.html |date=April 11, 2014 |work=[[New York Times]] 
+|accessdate=April 12, 2014 }}</ref>
+
+=== Detection of abuse ===
+A number of methods for detecting testosterone use by athletes have been employed, most based on a [[urinalysis|urine test]]. These include the testosterone/[[epitestosterone]] ratio (normally less than 6), the testosterone/luteinizing hormone ratio and the 
+[[carbon-13]] / [[carbon-12]] ratio (pharmaceutical testosterone contains less carbon-13 than endogenous testosterone). In some testing programs, an individual's own historical results may serve as a reference interval for interpretation of a suspicious finding. 
+Another approach being investigated is the detection of the administered form of testosterone, usually an ester, in hair.<ref name="pmid19549614">{{cite journal | author = Strahm E, Emery C, Saugy M, Dvorak J, Saudan C | title = Detection of testosterone 
+administration based on the carbon isotope ratio profiling of endogenous steroids: international reference populations of professional soccer players | journal = Br J Sports Med | volume = 43 | issue = 13 | pages = 1041–4 | date = December 2009 | pmid = 19549614 | 
+pmc = 2784500 | doi = 10.1136/bjsm.2009.058669 | url =  }}</ref><ref name="pmid20355155">{{cite journal | author = Kicman AT, Cowan DA | title = Subject-based profiling for the detection of testosterone administration in sport | journal = Drug Test Anal | volume = 1 
+| issue = 1 | pages = 22–4 | date = January 2009 | pmid = 20355155 | doi = 10.1002/dta.14 | url =  }}</ref><ref name="pmid19353724">{{cite journal | author = Pozo OJ, Deventer K, Van Eenoo P, Rubens R, Delbeke FT | title = Quantification of testosterone undecanoate 
+in human hair by liquid chromatography-tandem mass spectrometry | journal = Biomed. Chromatogr. | volume = 23 | issue = 8 | pages = 873–80 | date = August 2009 | pmid = 19353724 | doi = 10.1002/bmc.1199 }}</ref><ref name="isbn0-9626523-6-9">{{cite book | author = 
+Baselt RC | title = Disposition of Toxic Drugs & Chemicals in Man | edition = 8th | publisher = Biomedical Publications | location = Foster City, Calif | year = 2008 | origyear = | pages = 1501–1504 | quote = | isbn = 978-0-9626523-7-0 }}</ref>
+
+== Adverse effects ==
+{{See also|Androgen replacement therapy#Adverse effects}}
+The [[Food and Drug Administration]] (FDA) stated in 2015 that neither the benefits nor the safety of testosterone have been established for [[Testosterone#Low levels due to aging|low testosterone levels due to aging]].<ref name=FDA2015>{{cite web |author=Staff 
+|title=Testosterone Products: Drug Safety Communication - FDA Cautions About Using Testosterone Products for Low Testosterone Due to Aging; Requires Labeling Change to Inform of Possible Increased Risk of Heart Attack And Stroke 
+|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm436280.htm |date=3 March 2015 |work=[[FDA]] |accessdate=5 March 2015 }}</ref> The FDA has required that testosterone pharmaceutical labels include warning information 
+about the possibility of an increased risk of heart attacks and stroke.<ref name=FDA2015/>
+
+===Cardiovascular disease===
+On January 31, 2014, reports of strokes, heart attacks, and deaths in men taking FDA-approved testosterone-replacement led the Food and Drug Administration to announce that it would be investigating this 
+issue.<ref>http://www.fda.gov/downloads/Drugs/DrugSafety/UCM383909.pdf</ref> The FDA is requiring warnings in the drug labeling of all approved testosterone products regarding [[deep vein thrombosis]] and [[pulmonary embolism]].<ref>{{cite web |author=Staff 
+|title=FDA adding general warning to testosterone products about potential for venous blood clots|url=http://www.fda.gov/Drugs/DrugSafety/ucm401746.htm|website=[[FDA]]|accessdate=October 9, 2014|date=June 19, 2014}}</ref>
+
+Adverse effects of testosterone supplementation may include increased cardiovascular events (including [[stroke]]s and [[heart attack]]s) and [[death]]s based on three peer-reviewed studies involving men taking testosterone-replacement.<ref>{{cite journal | author = 
+Finkle WD, Greenland S, Ridgeway GK, Adams JL, Frasco MA, Cook MB, Fraumeni JF, Hoover RN | title = Increased Risk of Non-fatal Myocardial Infarction Following Testosterone Therapy Prescription in Men | journal = [[PLoS ONE]] | volume = 9 | issue = 1 | pages = 
+e85805 | date = January 2014 | pmid = 24489673 | pmc = 3905977 | doi = 10.1371/journal.pone.0085805 | url = http://testosteronedruglawyers.com/wp-content/uploads/2014/03/Study-by-Finkle.pdf }}</ref> In addition, an increase of 30% in deaths and heart attacks in 
+older men has been reported.<ref name="pmid24193080">{{cite journal | author = Vigen R, O'Donnell CI, Barón AE, Grunwald GK, Maddox TM, Bradley SM, Barqawi A, Woning G, Wierman ME, Plomondon ME, Rumsfeld JS, Ho PM | title = Association of testosterone therapy with 
+mortality, myocardial infarction, and stroke in men with low testosterone levels | journal = [[Journal of the American Medical Association]] | volume = 310 | issue = 17 | pages = 1829–36 | year = 2013 | pmid = 24193080 | doi = 10.1001/jama.2013.280386 }}</ref> Due 
+to an increased incidence of adverse cardiovascular events compared to a [[placebo group]], a Testosterone in Older Men with Mobility Limitations (TOM) trial (a [[National Institute of Aging]] randomized trial) was halted early by the [[Data monitoring 
+committee#Safety concerns|Data Safety and Monitoring Committee]].<ref>{{cite journal | author = Basaria S, Coviello AD, Travison TG, Storer TW, Farwell WR, Jette AM, Eder R, Tennstedt S, Ulloor J, Zhang A, Choong K, Lakshman KM, Mazer NA, Miciek R, Krasnoff J, Elmi 
+A, Knapp PE, Brooks B, Appleman E, Aggarwal S, Bhasin G, Hede-Brierley L, Bhatia A, Collins L, LeBrasseur N, Fiore LD, Bhasin S | title = Adverse Events Associated with Testosterone Administration | journal = [[New England Journal of Medicine]] | volume = 363 | 
+issue = 2 | pages = 109–22 | date = July 2010 | pmid = 20592293 | pmc = 3440621 | doi = 10.1056/NEJMoa1000485 }}</ref> On January 31, 2014, reports of [[stroke]]s, [[heart attack]]s, and [[death]]s in men taking [[FDA]]-approved testosterone-replacement led the 
+[[Food and Drug Administration]] ([[FDA]]) to announce that it would be investigating the issue.<ref name="FDA-20140131">{{cite web |author=Staff |title=FDA evaluating risk of stroke, heart attack and death with FDA-approved testosterone products 
+|url=http://www.fda.gov/downloads/Drugs/DrugSafety/UCM383909.pdf |publisher=[[U.S. Food and Drug Administration]] |date=January 31, 2014 |format=[[PDF]] |accessdate=September 17, 2014 }}</ref> Later, in September 2014, the [[FDA]] announced, as a result of the 
+"potential for adverse cardiovascular outcomes", a review of the appropriateness and safety of Testosterone Replacement Therapy (TRT).<ref name="NYT-20140917">{{cite news |last=Tavernise |first=Sabrina |title=F.D.A. Panel Backs Limits on Testosterone Drugs 
+|url=http://www.nytimes.com/2014/09/18/health/testosterone-drugs-fda.html |date=September 17, 2014 |work=[[New York Times]] |accessdate=September 18, 2014 }}</ref><ref name="CNN-20140905">{{cite news |author=Staff |title=FDA Panel To Review Testosterone Therapy 
+Appropriateness and Safety |url=http://ireport.cnn.com/docs/DOC-1167887 |date=September 5, 2014 |work=[[CNN News]] |accessdate=September 14, 2014 }}</ref><ref name="FDA-20140903">{{cite web |author=Staff |title=Joint Meeting for Bone, Reproductive and Urologic Drugs 
+Advisory Committee (BRUDAC) and the Drug Safety And Risk Management Advisory Committee (DSARM AC) – FDA background documents for the discussion of two major issues in testosterone replacement therapy (TRT): 1. The appropriate indicated population for TRT, and 2. The 
+potential for adverse cardiovascular outcomes associated with use of TRT |url=http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/ReproductiveHealthDrugsAdvisoryCommittee/UCM412536.pdf |date=September 17, 2014 |work=[[Food and Drug 
+Administration]] |format=[[PDF]] |accessdate=September 14, 2014 }}</ref>
+
+Up to the year 2010, studies had not shown any effect on the risk of death, [[prostate cancer]] or [[cardiovascular disease]];<ref name=Fer2010>{{cite journal | author = Fernández-Balsells MM, Murad MH, Lane M, Lampropulos JF, Albuquerque F, Mullan RJ, Agrwal N, 
+Elamin MB, Gallegos-Orozco JF, Wang AT, Erwin PJ, Bhasin S, Montori VM | title = Clinical review 1: Adverse effects of testosterone therapy in adult men: a systematic review and meta-analysis. | journal = The Journal of Clinical Endocrinology and Metabolism | volume 
+= 95 | issue = 6 | pages = 2560–75 | date = June 2010 | pmid = 20525906 | doi = 10.1210/jc.2009-2575 }}</ref><ref>{{cite journal | author = Haddad RM, Kennedy CC, Caples SM, Tracz MJ, Boloña ER, Sideras K, Uraga MV, Erwin PJ, Montori VM | title = Testosterone and 
+cardiovascular risk in men: a systematic review and meta-analysis of randomized placebo-controlled trials. | journal = Mayo Clinic proceedings. Mayo Clinic | volume = 82 | issue = 1 | pages = 29–39 | date = January 2007 | pmid = 17285783 | doi = 10.4065/82.1.29  
+}}</ref> more recent studies, however, do raise concerns.<ref>{{cite web|title=Testosterone Products: Drug Safety Communication – FDA Investigating Risk of Cardiovascular 
+Events|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm384225.htm|work=FDA|accessdate=February 3, 2014|date=January 31, 2014}}</ref> A 2013 study, published in the Journal of the American Medical Association, reported 
+"the use of testosterone therapy was significantly associated with increased risk of adverse outcomes." The study began after a previous, randomized, clinical trial of testosterone therapy in men was stopped prematurely "due to adverse cardiovascular events raising 
+concerns about testosterone therapy safety."<ref name=vigen2013>{{cite journal | author = Vigen R, O'Donnell CI, Barón AE, Grunwald GK, Maddox TM, Bradley SM, Barqawi A, Woning G, Wierman ME, Plomondon ME, Rumsfeld JS, Ho PM | title = Association of testosterone 
+therapy with mortality, myocardial infarction, and stroke in men with low testosterone levels. | journal = Journal of the American Medical Association | volume = 310 | issue = 17 | pages = 1829–36 | date = November 6, 2013 | pmid = 24193080 | doi = 
+10.1001/jama.2013.280386 | url = http://jama.jamanetwork.com/article.aspx?articleid=1764051 | accessdate = June 16, 2014 }}</ref>
+
+===Cancer===
+Testosterone in the presence of a slow-growing cancer is assumed to increase its growth rate. However, the association between testosterone supplementation and the development of prostate cancer is unproven.<ref name="pmid19863857">{{cite journal | author = Rhoden 
+EL, Averbeck MA | title = Testosterone therapy and prostate carcinoma | journal = Curr Urol Rep | volume = 10 | issue = 6 | pages = 453–9 | date = November 2009 | pmid = 19863857 | doi = 10.1007/s11934-009-0072-1 }}</ref> Nevertheless, physicians are cautioned about 
+the cancer risk associated with testosterone supplementation.<ref name="pmid16006887">{{cite journal | author = Gaylis FD, Lin DW, Ignatoff JM, Amling CL, Tutrone RF, Cosgrove DJ | title = Prostate cancer in men using testosterone supplementation | journal = J. 
+Urol. | volume = 174 | issue = 2 | pages = 534–8; discussion 538 | date = August 2005 | pmid = 16006887 | doi = 10.1097/01.ju.0000165166.36280.60 }}</ref>
+
+Ethnic groups have different rates of [[prostate cancer]].<ref name=Cal2010/> Differences in sex hormones, including testosterone, have been suggested as an explanation for these differences.<ref name=Cal2010>{{cite journal | author = Calistro Alvarado L | title = 
+Population differences in the testosterone levels of young men are associated with prostate cancer disparities in older men | journal = Am. J. Hum. Biol. | volume = 22 | issue = 4 | pages = 449–55 | year = 2010 | pmid = 20087895 | doi = 10.1002/ajhb.21016 }}</ref> 
+This apparent paradox can be resolved by noting that prostate cancer is very common. In autopsies, 80% of 80-year-old men have prostate cancer.<ref name="pmid15495199">{{cite journal | author = Bostwick DG, Burke HB, Djakiew D, Euling S, Ho SM, Landolph J, Morrison 
+H, Sonawane B, Shifflett T, Waters DJ, Timms B | title = Human prostate cancer risk factors | journal = Cancer | volume = 101 | issue = 10 Suppl | pages = 2371–490 | date = November 2004 | pmid = 15495199 | doi = 10.1002/cncr.20408 | laysource = Mercer University 
+School of Medicine | layurl = http://library.med.utah.edu/WebPath/TUTORIAL/PROSTATE/PROSTATE.html }}</ref>
+
+===Other===
+Other significant adverse effects of testosterone supplementation include acceleration of pre-existing [[prostate cancer]] growth in individuals who have undergone androgen deprivation; increased [[hematocrit]], which can require [[venipuncture]] in order to treat; 
+and, exacerbation of sleep [[apnea]].<ref>{{cite pmid|23395803}}</ref> Adverse effects may also include minor side-effects such as acne and oily skin, as well as, significant hair loss and/or thinning of the hair, which may be prevented with [[5-alpha reductase]] 
+inhibitors ordinarily used for the treatment of [[benign prostatic hyperplasia]], such as [[finasteride]] or [[dutasteride]].<ref>[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212439/ “Therapeutic Advances in Drug Safety”, Adverse effects of testosterone replacement 
+therapy: an update on the evidence and controversy, October 2004 ]</ref> Exogenous testosterone may also cause suppression of [[spermatogenesis]], leading to, in some cases, infertility.<ref name="pmid1977002">{{cite journal | author =  | title = Contraceptive 
+efficacy of testosterone-induced azoospermia in normal men. World Health Organization Task Force on methods for the regulation of male fertility | journal = Lancet | volume = 336 | issue = 8721 | pages = 955–9 | date = October 1990 | pmid = 1977002 | doi = 
+10.1016/0140-6736(90)92416-F}}</ref> It is recommended that physicians screen for [[prostate cancer]] with a digital rectal exam and [[prostate-specific antigen]] (PSA) level before starting therapy, and monitor PSA and hematocrit levels closely during 
+therapy.<ref>[http://www.ncbi.nlm.nih.gov/books/NBK216164/#ddd00024/ “National Academy of Sciences”, Testosterone and Aging: Clinical Research Directions, 2004]</ref>
+
+===Pregnancy and breast feeding===
+Testosterone is contraindicated in pregnancy and not recommended during breastfeeding.<ref>{{cite web|title=Testosterone Pregnancy and Breastfeeding Warnings|url=http://www.drugs.com/pregnancy/testosterone.html|accessdate=February 1, 2014}}</ref>
+
+== Biochemistry ==
+
+=== Biosynthesis ===
+[[File:Steroidogenesis.svg|thumb|left|500px|Human [[steroidogenesis]], showing testosterone near bottom.]]
+Like other [[steroid]] hormones, testosterone is derived from [[cholesterol]] (see figure to the left).<ref name="pmid1307739">{{cite journal | author = Waterman MR, Keeney DS | title = Genes involved in androgen biosynthesis and the male phenotype | journal = Horm. 
+Res. | volume = 38 | issue = 5–6 | pages = 217–21 | year = 1992 | pmid = 1307739 | doi = 10.1159/000182546 | url =  }}</ref> The first step in the [[biosynthesis]] involves the oxidative cleavage of the sidechain of cholesterol by [[cholesterol side-chain cleavage 
+enzyme|CYP11A]], a [[mitochondrion|mitochondrial]] [[cytochrome P450]] oxidase with the loss of six carbon atoms to give [[pregnenolone]].  In the next step, two additional carbon atoms are removed by the [[CYP17A1|CYP17A]] enzyme in the [[endoplasmic reticulum]] to 
+yield a variety of C<sub>19</sub> steroids.<ref name="pmid3535074">{{cite journal | author = Zuber MX, Simpson ER, Waterman MR | title = Expression of bovine 17 alpha-hydroxylase cytochrome P-450 cDNA in nonsteroidogenic (COS 1) cells | journal = Science | volume = 
+234 | issue = 4781 | pages = 1258–61 | date = December 1986 | pmid = 3535074 | doi = 10.1126/science.3535074 | url =  | bibcode = 1986Sci...234.1258Z }}</ref> In addition, the 3-hydroxyl group is oxidized by [[3-beta-HSD|3-β-HSD]] to produce [[androstenedione]]. In 
+the final and rate limiting step, the C-17 keto group androstenedione is reduced by [[17Beta Hydroxysteroid dehydrogenase|17-β hydroxysteroid dehydrogenase]] to yield testosterone.
+
+The largest amounts of testosterone (>95%) are produced by the [[testis|testes]] in men.<ref name="Mooradian_ 1987"/> It is also synthesized in far smaller quantities in women by the [[thecal cells]] of the [[ovary|ovaries]], by the [[placenta]], as well as by the 
+[[zona reticularis]] of the [[adrenal cortex]] and even [[skin]]<ref name="pmid15507105">{{cite journal | author = Zouboulis CC, Degitz K | title = Androgen action on human skin – from basic research to clinical significance | journal = Exp. Dermatol. | volume = 13 
+Suppl 4 | issue =  s4| pages = 5–10 | year = 2004 | pmid = 15507105 | doi = 10.1111/j.1600-0625.2004.00255.x }}</ref> in both sexes. In the [[testes]], testosterone is produced by the [[Leydig cell]]s.<ref name="pmid58744">{{cite journal | author = Brooks RV | title 
+= Androgens | journal = Clin Endocrinol Metab | volume = 4 | issue = 3 | pages = 503–20 | date = November 1975 | pmid = 58744 | doi = 10.1016/S0300-595X(75)80045-4 | url =  }}</ref> The male generative glands also contain [[Sertoli cell]]s, which require 
+testosterone for [[spermatogenesis]]. Like most hormones, testosterone is supplied to target tissues in the blood where much of it is transported bound to a specific [[plasma protein]], [[sex hormone-binding globulin]] (SHBG).
+
+=== Regulation ===
+[[File:Hypothalamus pituitary testicles axis.png|thumb|right|Hypothalamic–pituitary–testicular axis]]
+In males, testosterone is synthesized primarily in [[Leydig cells]].  The number of Leydig cells in turn is regulated by [[luteinizing hormone]] (LH) and [[follicle-stimulating hormone]] (FSH).  In addition, the amount of testosterone produced by existing Leydig 
+cells is under the control of LH, which regulates the expression of [[17Beta Hydroxysteroid dehydrogenase|17-β hydroxysteroid dehydrogenase]].<ref name="isbn0-9627422-7-9">{{cite book | author =  Payne AH, O'Shaughnessy P | authorlink = | editor = Payne AH, Hardy 
+MP, Russell LD | others = | title = Leydig Cell | edition = | language = | publisher = Cache River Press | location = Vienna [Il] | year = 1996 | origyear = | pages = 260–285 | quote = | isbn = 0-9627422-7-9 | oclc = | doi = | url = | chapter = Structure, function, 
+and regulation of steroidogenic enzymes in the Leydig cell }}</ref>
+
+The amount of testosterone synthesized is regulated by the [[hypothalamic–pituitary–gonadal axis|hypothalamic–pituitary–testicular axis]] (see figure to the right).<ref name="pmid1377467">{{cite journal | author = Swerdloff RS, Wang C, Bhasin S | title = 
+Developments in the control of testicular function | journal = Baillieres Clin. Endocrinol. Metab. | volume = 6 | issue = 2 | pages = 451–83 | date = April 1992 | pmid = 1377467 | doi = 10.1016/S0950-351X(05)80158-2 | url =  }}</ref> When testosterone levels are 
+low, gonadotropin-releasing hormone ([[gonadotropin-releasing hormone|GnRH]]) is released by the [[hypothalamus]], which in turn stimulates the [[pituitary gland]] to release FSH and LH.  These latter two hormones stimulate the testis to synthesize testosterone.  
+Finally, increasing levels of testosterone through a negative [[feedback]] loop act on the hypothalamus and pituitary to inhibit the release of GnRH and FSH/LH, respectively.
+
+Factors affecting testosterone levels include:
+* Weight loss may result in an increase in testosterone levels. Fat cells synthesize the enzyme aromatase, which converts testosterone, the male sex hormone, into estradiol, the female sex hormone.<ref name="pmid21849026">{{cite journal | author = Håkonsen LB, 
+Thulstrup AM, Aggerholm AS, Olsen J, Bonde JP, Andersen CY, Bungum M, Ernst EH, Hansen ML, Ernst EH, Ramlau-Hansen CH | title = Does weight loss improve semen quality and reproductive hormones? Results from a cohort of severely obese men | journal = Reprod Health | 
+volume = 8 | issue =  1| page = 24 | year = 2011 | pmid = 21849026 | pmc = 3177768 | doi = 10.1186/1742-4755-8-24 }}</ref>
+* The secosteroid [[vitamin D]] in levels of 400–1000&nbsp;[[international unit|IU]]/d (10–25&nbsp;µg/d) raises testosterone levels.<ref name="pmid21154195">{{cite journal | author = Pilz S, Frisch S, Koertke H, Kuhn J, Dreier J, Obermayer-Pietsch B, Wehr E, 
+Zittermann A | title = Effect of vitamin D supplementation on testosterone levels in men | journal = Horm. Metab. Res. | volume = 43 | issue = 3 | pages = 223–5 | date = March 2011 | pmid = 21154195 | doi = 10.1055/s-0030-1269854 }}</ref>
+* [[Zinc]] deficiency lowers testosterone levels<ref name="pmid8875519">{{cite journal | author = Prasad AS, Mantzoros CS, Beck FW, Hess JW, Brewer GJ | title = Zinc status and serum testosterone levels of healthy adults | journal = Nutrition | volume = 12 | issue = 
+5 | pages = 344–8 | date = May 1996 | pmid = 8875519 | doi = 10.1016/S0899-9007(96)80058-X | url =  }}</ref> but over supplementation has no effect on serum testosterone.<ref name="pmid17882141">{{cite journal | author = Koehler K, Parr MK, Geyer H, Mester J, 
+Schänzer W | title = Serum testosterone and urinary excretion of steroid hormone metabolites after administration of a high-dose zinc supplement | journal = Eur J Clin Nutr | volume = 63 | issue = 1 | pages = 65–70 | date = January 2009 | pmid = 17882141 | doi = 
+10.1038/sj.ejcn.1602899 | url =  }}</ref>
+* [[Vitamin A]] deficiency may lead to sub-optimal plasma Testosterone levels.<ref name="pmid12141930">{{vcite2 journal | vauthors = Livera G, Rouiller-Fabre V, Pairault C, Levacher C, Habert R | title = Regulation and perturbation of testicular functions by vitamin 
+A | journal = Reproduction | volume = 124 | issue = 2 | pages = 173–80 | year = 2002 | pmid = 12141930 | doi = 10.1530/rep.0.1240173 }}</ref>
+* Dominance challenges can, in some cases, stimulate increased testosterone release in men.<ref name="pmid10603287">{{cite journal | author = Schultheiss OC, Campbell KL, McClelland DC | title = Implicit power motivation moderates men's testosterone responses to 
+imagined and real dominance success | journal = Horm Behav | volume = 36 | issue = 3 | pages = 234–41 | date = December 1999 | pmid = 10603287 | doi = 10.1006/hbeh.1999.1542 | url =  }}</ref>
+* Aging reduces testosterone release.<ref name="pmid16339924">{{cite journal | author = Liu PY, Pincus SM, Takahashi PY, Roebuck PD, Iranmanesh A, Keenan DM, Veldhuis JD | title = Aging attenuates both the regularity and joint synchrony of LH and testosterone 
+secretion in normal men: analyses via a model of graded GnRH receptor blockade | journal = Am. J. Physiol. Endocrinol. Metab. | volume = 290 | issue = 1 | pages = E34–E41 | date = January 2006 | pmid = 16339924 | doi = 10.1152/ajpendo.00227.2005 | url =  }}</ref>
+* [[Hypogonadism]]
+* Sleep ([[REM dream]]) increases nocturnal testosterone levels.<ref name="pmid18519168">{{cite journal | author = Andersen ML, Tufik S | title = The effects of testosterone on sleep and sleep-disordered breathing in men: its bidirectional interaction with erectile 
+function | journal = Sleep Med Rev | volume = 12 | issue = 5 | pages = 365–79 | date = October 2008 | pmid = 18519168 | doi = 10.1016/j.smrv.2007.12.003 | url = http://www.sono.org.br/pdf/2008_Andersen_Sleep_Med_Rev.pdf }}</ref>
+* [[Resistance training]] increases testosterone levels,<ref name="url_Marin">{{cite journal | author = Marin DP, Figueira AJ Junior, Pinto LG | year = 2006| title = One session of resistance training may increase serum testosterone and triiodetironine in young men| 
+url = http://journals.lww.com/acsm-msse/Fulltext/2006/05001/One_Session_of_Resistance_Training_May_Increase.2108.aspx| journal = Medicine & Science in Sports & Exercise | volume = 38  | issue = 5 | page = S285  | doi =10.1249/00005768-200605001-01235  }}</ref>  
+however, in older men, that increase can be avoided by protein ingestion.<ref name="pmid18455389">{{cite journal | author = Hulmi JJ, Ahtiainen JP, Selänne H, Volek JS, Häkkinen K, Kovanen V, Mero AA | title = Androgen receptors and testosterone in men—effects of 
+protein ingestion, resistance exercise and fiber type | journal = J. Steroid Biochem. Mol. Biol. | volume = 110 | issue = 1–2 | pages = 130–7 | date = May 2008 | pmid = 18455389 | doi = 10.1016/j.jsbmb.2008.03.030 | url =  }}</ref>
+*[[Licorice]]. The active ingredient in licorice root, [[glycyrrhizinic acid]] has been linked to small, clinically non-significant decreases in testosterone levels.<ref name="pmid11716893">{{cite journal | author = Josephs RA, Guinn JS, Harper ML, Askari F | title 
+= Liquorice consumption and salivary testosterone concentrations | journal = Lancet | volume = 358 | issue = 9293 | pages = 1613–4 | date = November 2001 | pmid = 11716893 | doi = 10.1016/S0140-6736(01)06664-8 | url =  }}</ref> In contrast, a more recent study found 
+that licorice administration produced a substantial testosterone decrease in a small, female-only sample.<ref name="pmid15579328">{{cite journal | author = Armanini D, Mattarello MJ, Fiore C, Bonanni G, Scaroni C, Sartorato P, Palermo M | title = Licorice reduces 
+serum testosterone in healthy women | journal = Steroids | volume = 69 | issue = 11–12 | pages = 763–6 | year = 2004 | pmid = 15579328 | doi = 10.1016/j.steroids.2004.09.005 | url =  }}</ref>
+* Natural or man-made [[antiandrogens]] including [[spearmint]] tea reduce testosterone levels.<ref name="pmid17310494">{{cite journal | author = Akdoğan M, Tamer MN, Cüre E, Cüre MC, Köroğlu BK, Delibaş N | title = Effect of spearmint (Mentha spicata Labiatae) teas 
+on androgen levels in women with hirsutism | journal = Phytother Res | volume = 21 | issue = 5 | pages = 444–7 | date = May 2007 | pmid = 17310494 | doi = 10.1002/ptr.2074 | url =  }}</ref><ref name="pmid18804513">{{cite journal | author = Kumar V, Kural MR, Pereira 
+BM, Roy P | title = Spearmint induced hypothalamic oxidative stress and testicular anti-androgenicity in male rats&nbsp;– altered levels of gene expression, enzymes and hormones | journal = Food Chem. Toxicol. | volume = 46 | issue = 12 | pages = 3563–70 | date = 
+December 2008 | pmid = 18804513 | doi = 10.1016/j.fct.2008.08.027 | url =  }}</ref><ref name="pmid19585478">{{cite journal | author = Grant P | title = Spearmint herbal tea has significant anti-androgen effects in polycystic ovarian syndrome. A randomized controlled 
+trial | journal = Phytother Res | volume = 24 | issue = 2 | pages = 186–8 | date = February 2010 | pmid = 19585478 | doi = 10.1002/ptr.2900 | url =  }}</ref>
+* Posing in high-power nonverbal displays through open, expansive postures can increase testosterone levels.<ref name="pmid20855902">{{cite journal | author = Carney DR, Cuddy AJ, Yap AJ | title = Power posing: brief nonverbal displays affect neuroendocrine levels 
+and risk tolerance | journal = Psychol Sci. | volume = 21 | issue = 10 | pages = 1363–1368 | date = October 2010 | pmid = 20855902 | doi = 10.1177/0956797610383437 | accessdate = March 31, 2014 }}</ref>
+
+=== Metabolism ===
+Approximately 7% of testosterone is reduced to 5α-[[dihydrotestosterone]] (DHT) by the cytochrome P<sub>450</sub> enzyme [[5-alpha reductase|5α-reductase]],<ref name="pmid8092979">{{cite journal | author = Randall VA | title = Role of 5 alpha-reductase in health and 
+disease | journal = Baillieres Clin. Endocrinol. Metab. | volume = 8 | issue = 2 | pages = 405–31 | date = April 1994 | pmid = 8092979 | doi = 10.1016/S0950-351X(05)80259-9 | url =  }}</ref> an enzyme highly expressed in male sex organs and hair follicles.<ref 
+name="Mooradian_ 1987"/> Approximately 0.3% of testosterone is converted into estradiol by [[aromatase]] (CYP19A1)<ref name="pmid12428207">{{cite journal | author = Meinhardt U, Mullis PE | title = The essential role of the aromatase/p450arom | journal = Semin. 
+Reprod. Med. | volume = 20 | issue = 3 | pages = 277–84 | date = August 2002 | pmid = 12428207 | doi = 10.1055/s-2002-35374 | url =  }}</ref> an enzyme expressed in the brain, liver, and adipose tissues.<ref name="Mooradian_ 1987"/>
+
+DHT is a more potent form of testosterone while estradiol has completely different activities (feminization) compared to testosterone (masculinization). Also, testosterone and DHT may be deactivated or cleared by enzymes that hydroxylate at the 6, 7, 15 or 16 
+positions.<ref name="isbn0-3870-8012-0">{{cite book | author = Trager L | authorlink = | editor = | others = | title = Steroidhormone: Biosynthese, Stoffwechsel, Wirkung | edition = | language = German | publisher = Springer-Verlag  | location = | year = 1977 | 
+origyear = | page = 349  | quote = | isbn = 0-387-08012-0  | oclc = | doi =   | url = | accessdate = }}</ref>
+
+== Mechanism of action ==
+The effects of testosterone in humans and other [[vertebrates]] occur by way of two main mechanisms: by activation of the [[androgen receptor]] (directly or as DHT), and by conversion to [[estradiol]] and activation of certain [[estrogen receptor]]s.<ref 
+name="pmid18406296">{{cite journal | author = Hiipakka RA, Liao S | title = Molecular mechanism of androgen action | journal = Trends Endocrinol. Metab. | volume = 9 | issue = 8 | pages = 317–24 | date = October 1998 | pmid = 18406296 | doi = 
+10.1016/S1043-2760(98)00081-2 | url =  }}</ref><ref name="pmid11511858">{{cite journal | author = McPhaul MJ, Young M | title = Complexities of androgen action | journal = J. Am. Acad. Dermatol. | volume = 45 | issue = 3 Suppl | pages = S87–94 | date = September 
+2001 | pmid = 11511858 | doi = 10.1067/mjd.2001.117429 | url =  }}</ref>
+
+Free testosterone (T) is transported into the [[cytoplasm]] of target [[Tissue (biology)|tissue]] [[Cell (biology)|cells]], where it can bind to the [[androgen receptor]], or can be reduced to 5α-[[dihydrotestosterone]] (DHT) by the cytoplasmic enzyme [[5-alpha 
+reductase]]. DHT binds to the same androgen receptor even more strongly than testosterone, so that its androgenic potency is about 5 times that of T.<ref name="pmid3762019">{{cite journal | author = Breiner M, Romalo G, Schweikert HU | title = Inhibition of androgen 
+receptor binding by natural and synthetic steroids in cultured human genital skin fibroblasts | journal = Klin. Wochenschr. | volume = 64 | issue = 16 | pages = 732–7 | date = August 1986 | pmid = 3762019 | doi = 10.1007/BF01734339 | url =  }}</ref> The T-receptor 
+or DHT-receptor complex undergoes a structural change that allows it to move into the [[cell nucleus]] and bind directly to specific [[nucleotide]] sequences of the [[chromosome|chromosomal]] DNA. The areas of binding are called [[hormone response element]]s (HREs), 
+and influence transcriptional activity of certain [[gene]]s, producing the androgen effects.
+
+Androgen receptors occur in many different vertebrate body system tissues, and both males and females respond similarly to similar levels. Greatly differing amounts of testosterone prenatally, at puberty, and throughout life account for a share of biological 
+[[sexual differentiation|differences]] between males and females.
+
+The bones and the brain are two important tissues in humans where the primary effect of testosterone is by way of [[aromatization]] to [[estradiol]]. In the bones, estradiol accelerates ossification of cartilage into bone, leading to closure of the 
+[[epiphysis|epiphyses]] and conclusion of growth. In the central nervous system, testosterone is aromatized to estradiol. Estradiol rather than testosterone serves as the most important feedback signal to the hypothalamus (especially affecting [[luteinizing 
+hormone|LH]] secretion).{{Citation needed|date=January 2011}} In many [[mammal]]s, prenatal or perinatal "masculinization" of the [[sexual dimorphism|sexually dimorphic]] areas of the brain by estradiol derived from testosterone programs later male sexual 
+behavior.{{Citation needed|date=January 2011}}
+
+== Synthetic analogs ==
+A number of synthetic analogs of testosterone have been developed with improved [[bioavailability]] and [[biological half-life|metabolic half life]] relative to testosterone.  Many of these analogs have an [[alkyl]] group introduced at the C-17 position in order to 
+prevent [[Xenobiotic conjugation#Phase II - conjugation|conjugation]] and hence improve oral bioavailability. These are the so-called "17-aa" (17-alkyl androgen) family of androgens such as [[fluoxymesterone]] and [[methyltestosterone]].
+
+== Related drugs ==
+Some drugs indirectly target testosterone as a way of treating certain conditions. For example, [[5-alpha-reductase inhibitor]]s such as [[finasteride]] inhibit the conversion of testosterone into [[dihydrotestosterone]] (DHT), a metabolite more potent than 
+testosterone.<ref name="pmid15853706">{{cite journal | author = Bratoeff E, Cabeza M, Ramirez E, Heuze Y, Flores E | title = Recent advances in the chemistry and pharmacological activity of new steroidal antiandrogens and 5 alpha-reductase inhibitors | journal = 
+Curr. Med. Chem. | volume = 12 | issue = 8 | pages = 927–43 | year = 2005 | pmid = 15853706 | doi = 10.2174/0929867053507306 | url =  }}</ref>  These 5-alpha-reductase inhibitors have been used to treat various conditions associated with androgens, such as 
+[[androgenetic alopecia]] ([[male-pattern baldness]]), [[hirsutism]], [[benign prostatic hyperplasia]] (BPH), and [[prostate cancer]].<ref name="pmid15853706"/>  In contrast, [[gonadotropin-releasing hormone antagonist|GnRH antagonists]] bind to 
+[[gonadotropin-releasing hormone receptor|GnRH receptors]] in the [[pituitary gland]], blocking the release of [[luteinising hormone]] (LH) and [[follicle-stimulating hormone]] (FSH) from the pituitary.<ref name="pmid17237842">{{cite journal | author = Engel JB, 
+Schally AV | title = Drug Insight: clinical use of agonists and antagonists of luteinizing-hormone-releasing hormone | journal = Nat Clin Pract Endocrinol Metab | volume = 3 | issue = 2 | pages = 157–67 | date = February 2007 | pmid = 17237842 | doi = 
+10.1038/ncpendmet0399 | url =  }}</ref> In men, the reduction in LH subsequently leads to rapid suppression of testosterone release from the [[testes]].  GnRH antagonists have been used for the treatment of prostate cancer.
+
+== Routes of administration ==
+[[File:Depo-testosterone 200 mg ml crop.jpg|thumb|Vial of testosterone for intramuscular injection]]
+There are many [[routes of administration]] for testosterone. Forms of testosterone for human administration currently available include injectable (such as testosterone [[cypionate]] or testosterone [[enanthate]] in oil),<ref name="urlTestosterone Information from 
+Drugs.com">{{cite web | url = http://www.drugs.com/testosterone.html | title = Testosterone Information  | authorlink = | work = | publisher = Drugs.com | pages = |language = | archiveurl = | archivedate = | quote = | accessdate = }}</ref> oral, 
+[[Cheek|buccal]],<ref name="urlStriant Official FDA information, side effects and uses.">{{cite web | url =http://www.drugs.com/pro/striant.html | title = Striant Official FDA information, side effects and uses |authorlink = | work = | publisher = Drugs.com | pages 
+= | language = | archiveurl = |archivedate = | quote = | accessdate = }}</ref> transdermal skin patches, transdermal creams, gels,<ref name="urlAndroGel Official FDA information, side effects and uses.">{{cite web | url =http://www.drugs.com/pro/androgel.html | 
+title = AndroGel Official FDA information, side effects and uses |authorlink = | work = | publisher = Drugs.com | pages = | language = | archiveurl = |archivedate = | quote = | accessdate = }}</ref><ref name="urlTestim (patches and gel) medical facts from 
+Drugs.com">{{cite web | url = http://www.drugs.com/mtm/testim-patches-and-gel.html | title = Testim (patches and gel) medical facts | authorlink = | work = | publisher = Drugs.com }}</ref> and implantable pellets.<ref name="urlwww.slatepharma.com">{{cite web | url 
+=http://www.slatepharma.com | title =  Testopel Pellets | publisher = www.slatepharma.com | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = }}</ref> Roll-on methods and nasal sprays are currently under development.
+
+== History ==
+[[File:Lavoslav Ružićka 1939.jpg|thumb|left|Leopold Ruzicka]]
+A [[testicular]] action was linked to circulating blood fractions&nbsp;– now understood to be a family of androgenic hormones&nbsp;– in the early work on castration and testicular transplantation in fowl by [[Arnold Adolph Berthold]] (1803–1861).<ref 
+name="Berthold_1849">{{cite journal |author = Berthold AA | title = Transplantation der Hoden | trans_title = Transplantation of testis | language = German | journal = Arch. Anat. Physiol. Wissensch. |volume = 16 |issue =  |pages = 42–6 | year = 1849 | pmid = | doi= 
+| url =}}</ref> Research on the action of testosterone received a brief boost in 1889, when the Harvard professor [[Charles-Édouard Brown-Séquard]] (1817–1894), then in Paris, self-injected subcutaneously a "rejuvenating elixir" consisting of an extract of dog and 
+guinea pig testicle.  He reported in ''The Lancet'' that his vigor and feeling of well-being were markedly restored but the effects were transient,<ref name="Brown-Sequard_1889">{{cite journal |author = Brown-Sequard CE | title = The effects produced on man by 
+subcutaneous injections of liquid obtained from the testicles of animals |language = | journal = Lancet |volume = 2 | issue =  3438|page = 105| year = 1889 | doi = 10.1016/S0140-6736(00)64118-1| url =}}</ref> and Brown-Séquard's hopes for the compound were dashed. 
+Suffering the ridicule of his colleagues, he abandoned his work on the mechanisms and effects of androgens in human beings.
+
+In 1927, the University of Chicago's Professor of Physiologic Chemistry, Fred C. Koch, established easy access to a large source of bovine testicles — the Chicago stockyards — and recruited students willing to endure the tedious work of extracting their isolates. In 
+that year, Koch and his student, Lemuel McGee, derived 20&nbsp;mg of a substance from a supply of 40 pounds of bovine testicles that, when administered to castrated roosters, pigs and rats, remasculinized them.<ref name="Gallagher_Koch_1929">{{cite journal | author 
+= Gallagher TF, Koch FC | title = The testicular hormone |journal = J. Biol. Chem. | volume = 84 | issue = 2 | pages = 495–500 |date=November 1929 | pmid = | doi = | url = }}</ref>  The group of Ernst Laqueur at the University of Amsterdam purified testosterone from 
+bovine testicles in a similar manner in 1934, but isolation of the hormone from animal tissues in amounts permitting serious study in humans was not feasible until three European pharmaceutical giants—[[Schering]] (Berlin, Germany), [[Organon International|Organon]] 
+(Oss, Netherlands) and [[Novartis|Ciba]] (Basel, Switzerland)—began full-scale steroid research and development programs in the 1930s.
+
+The Organon group in the Netherlands were the first to isolate the hormone, identified in a May 1935 paper "On Crystalline Male Hormone from Testicles (Testosterone)".<ref name="David_1935">{{cite journal | author = David KG., Dingemanse E, Freud J. Laqueur E | 
+title = Über krystallinisches mannliches Hormon aus Hoden (Testosteron) wirksamer als aus harn oder aus Cholesterin bereitetes Androsteron | trans_title = On crystalline male hormone from testicles (testosterone) effective as from urine or from cholesterol | 
+language = German | journal = Hoppe Seylers Z Physiol Chem | volume = 233 | issue = 5–6| page = 281 |date=May 1935 | pmid = | doi = 10.1515/bchm2.1935.233.5-6.281| url =  }}</ref> They named the hormone ''testosterone'', from the [[stem (linguistics)|stems]] of 
+''testicle'' and ''[[sterol]]'', and the [[suffix]] of ''[[ketone]]''. The structure was worked out by Schering's [[Adolf Butenandt]].<ref name="Butenandt_1935a">{{cite journal | author = Butenandt A, Hanisch G | title =  Umwandlung des Dehydroandrosterons in 
+Androstendiol und Testosterone; ein Weg zur Darstellung des Testosterons aus Cholestrin | trans_title = About Testosterone. Conversion of Dehydro-androsterons into androstendiol and testosterone; a way for the structure assignment of testosterone from cholestrol | 
+language = German | journal = Hoppe Seylers Z Physiol Chem | volume = 237 | issue =  2| page = 89 | year = 1935 | pmid = | doi =  10.1515/bchm2.1935.237.1-3.89| url =  }}</ref><ref name="pmid11176375">{{cite journal | author = Freeman ER, Bloom DA, McGuire EJ | 
+title = A brief history of testosterone | journal = J. Urol. | volume = 165 | issue = 2 | pages = 371–3 | date = February 2001 | pmid = 11176375 | doi = 10.1097/00005392-200102000-00004 | url =  }}</ref>
+
+The [[chemical synthesis]] of testosterone from cholesterol was achieved in August that year by Butenandt and Hanisch.<ref name="Butenandt_1935b">{{cite journal | author = Butenandt A, Hanisch G | title = Uber die Umwandlung des Dehydroandrosterons in 
+Androstenol-(17)-one-(3) (Testosterone); um Weg zur Darstellung des Testosterons auf Cholesterin (Vorlauf Mitteilung). [The conversion of dehydroandrosterone into androstenol-(17)-one-3 (testosterone); a method for the production of testosterone from cholesterol 
+(preliminary communication)] | journal = Chemische Berichte | year = 1935 | volume = 68 | pages = 1859–1862 | language = German }}</ref> Only a week later, the Ciba group in Zurich, [[Leopold Ruzicka]] (1887–1976) and A. Wettstein, published their synthesis of 
+testosterone.<ref name="Ruzicka_1935">{{cite journal | author = Ruzicka L, Wettstein A | title = Uber die kristallinische Herstellung des Testikelhormons, Testosteron (Androsten-3-ol-17-ol) [The crystalline production of the testicle hormone, testosterone 
+(Androsten-3-ol-17-ol)] | journal = Helvetica Chimica Acta | year = 1935 | volume = 18 | pages = 1264–1275 | language = German | doi=10.1002/hlca.193501801176}}</ref> These independent partial syntheses of testosterone from a cholesterol base earned both Butenandt 
+and Ruzicka the joint 1939 [[Nobel Prize in Chemistry]].<ref name="pmid11176375"/><ref name="pmid7817189">{{cite journal | author = Hoberman JM, Yesalis CE | title = The history of synthetic testosterone | journal = Sci. Am. | volume = 272 | issue = 2 | pages = 
+76–81 | date = February 1995 | pmid = 7817189 | doi = 10.1038/scientificamerican0295-76 | url =  }}</ref> Testosterone was identified as 17β-hydroxyandrost-4-en-3-one (C<sub>19</sub>H<sub>28</sub>O<sub>2</sub>), a solid polycyclic alcohol with a hydroxyl group at 
+the 17th carbon atom. This also made it obvious that additional modifications on the synthesized testosterone could be made, i.e., esterification and alkylation.
+
+The partial synthesis in the 1930s of abundant, potent testosterone esters permitted the characterization of the hormone's effects, so that Kochakian and Murlin (1936) were able to show that testosterone raised nitrogen retention (a mechanism central to anabolism) 
+in the dog, after which Allan Kenyon's group<ref name=" Kenyon _1940">{{cite journal | author = Kenyon AT, Knowlton K, Sandiford I, Koch FC, Lotwin,G | title = A comparative study of the metabolic effects of testosterone propionate in normal men and women and in 
+eunuchoidism | journal  = Endocrinology  | volume =  26| issue = 1 | pages = 26–45 |date=February 1940| doi = 10.1210/Endo-26-1-26 | url =   }}</ref> was able to demonstrate both anabolic and androgenic effects of testosterone propionate in eunuchoidal men, boys, 
+and women. The period of the early 1930s to the 1950s has been called "The Golden Age of Steroid Chemistry",<ref name="pmid10443899">{{cite journal | author = Schwarz S, Onken D, Schubert A | title = The steroid story of Jenapharm: from the late 1940s to the early 
+1970s | journal = Steroids | volume = 64 | issue = 7 | pages = 439–45 | date = July 1999 | pmid = 10443899 | doi = 10.1016/S0039-128X(99)00003-3 | url = http://www.ingentaconnect.com/content/els/0039128x/1999/00000064/00000007/art00003 }}</ref> and work during this 
+period progressed quickly. Research in this golden age proved that this newly synthesized compound—testosterone—or rather family of compounds (for many derivatives were developed from 1940 to 1960), was a potent multiplier of muscle, strength, and well-being.<ref 
+name = "de Kruif_1945" >{{cite book | author = de Kruif P | title = The Male Hormone | publisher = Harcourt, Brace| location = New York |year = 1945 |pages = | isbn =  | oclc = | doi = }}</ref>
+
+==Society and culture==
+A number of lawsuits are currently underway against testosterone manufacturers, alleging a significantly increased rate of stroke and heart attack in elderly men who use testosterone supplements.<ref name=Harris2014>{{cite web|last1=Harris|first1=Andrew|title=Abbott 
+Labs Sued by Five Men Claiming Androgel Injuries|url=http://www.bloomberg.com/news/2014-02-05/abbott-labs-sued-by-five-men-claiming-androgel-injuries.html|website=Bloomberg.com|publisher=Bloomberg, L.P.|accessdate=June 16, 2014}}</ref>
+
+== References ==
+{{Portal|Chemistry|Molecular and cellular biology|Pharmacy and Pharmacology}}
+{{Reflist|30em}}
+
+==External links==
+* [http://gmd.mpimp-golm.mpg.de/Spectrums/8d9c152d-3e30-4c60-8fa7-70fd1213b528.aspx Testosterone MS Spectrum]
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=FFA Testosterone bound to proteins] in the [[Protein Data Bank|PDB]]
+* [http://www.mensjournal.com/health-fitness/health/fda-to-middle-aged-men-you-probably-don-t-need-testosterone-therapy-20140919 Testosterone replacement therapy – Overview (2014).]
+
+{{Hormones}}
+{{Steroid hormones}}
+{{Androgens}}
+{{Anabolic steroids}}
+{{Orexigenics}}
+{{Androgenics}}
+{{Estrogenics}}
+
+[[Category:Androgens]]
+[[Category:Endogenous androgenic substances]]
+[[Category:Hormones of the testis]]
+[[Category:Hormones of the ovary]]
+[[Category:Hormones of the hypothalamus-pituitary-gonad axis]]
+[[Category:Hormones of the suprarenal cortex]]
+[[Category:Erectile dysfunction drugs]]
+[[Category:Neuroendocrinology]]
+[[Category:Anabolic steroids]]
+[[Category:Human hormones]]
+[[Category:Testosterone| ]]
+[[Category:Sex hormones]]
